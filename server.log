@@ -1,0 +1,2182 @@
+2011-11-25 15:47:10 [INFO] Starting minecraft server version 1.0.1
+2011-11-25 15:47:10 [INFO] Loading properties
+2011-11-25 15:47:10 [WARNING] server.properties does not exist
+2011-11-25 15:47:10 [INFO] Generating new properties file
+2011-11-25 15:47:10 [INFO] Starting Minecraft server on *:25565
+2011-11-25 15:47:10 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (No such file or directory)
+2011-11-25 15:47:10 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (No such file or directory)
+2011-11-25 15:47:10 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ops.txt (No such file or directory)
+2011-11-25 15:47:10 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (No such file or directory)
+2011-11-25 15:47:10 [INFO] Preparing level "world"
+2011-11-25 15:47:10 [INFO] Default game type: 0
+2011-11-25 15:47:11 [INFO] Preparing start region for level 0
+2011-11-25 15:47:12 [INFO] Preparing spawn area: 4%
+2011-11-25 15:47:13 [INFO] Preparing spawn area: 16%
+2011-11-25 15:47:14 [INFO] Preparing spawn area: 24%
+2011-11-25 15:47:15 [INFO] Preparing spawn area: 36%
+2011-11-25 15:47:16 [INFO] Preparing spawn area: 48%
+2011-11-25 15:47:17 [INFO] Preparing spawn area: 61%
+2011-11-25 15:47:18 [INFO] Preparing spawn area: 77%
+2011-11-25 15:47:19 [INFO] Preparing spawn area: 89%
+2011-11-25 15:47:20 [INFO] Preparing spawn area: 97%
+2011-11-25 15:47:20 [INFO] Done (9899266000ns)! For help, type "help" or "?"
+2011-11-25 15:47:45 [INFO] bzgeb [/173.176.47.88:51683] logged in with entity id 4854 at (93.5, 66.62000000476837, 192.5)
+2011-11-25 15:47:52 [INFO] bzgeb lost connection: disconnect.quitting
+2011-11-25 16:01:44 [INFO] lh00000000 [/64.121.165.73:49495] logged in with entity id 5916 at (88.5, 65.62000000476837, 200.5)
+2011-11-25 16:06:47 [INFO] lh00000000 lost connection: disconnect.genericReason
+2011-11-25 16:10:28 [INFO] To run the server without a gui, start it like this:
+2011-11-25 16:10:28 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2011-11-25 16:10:28 [INFO] Console commands:
+2011-11-25 16:10:28 [INFO]    help  or  ?               shows this message
+2011-11-25 16:10:28 [INFO]    kick <player>             removes a player from the server
+2011-11-25 16:10:28 [INFO]    ban <player>              bans a player from the server
+2011-11-25 16:10:28 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2011-11-25 16:10:28 [INFO]    ban-ip <ip>               bans an IP address from the server
+2011-11-25 16:10:28 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2011-11-25 16:10:28 [INFO]    op <player>               turns a player into an op
+2011-11-25 16:10:28 [INFO]    deop <player>             removes op status from a player
+2011-11-25 16:10:28 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2011-11-25 16:10:28 [INFO]    give <player> <id> [num]  gives a player a resource
+2011-11-25 16:10:28 [INFO]    tell <player> <message>   sends a private message to a player
+2011-11-25 16:10:28 [INFO]    stop                      gracefully stops the server
+2011-11-25 16:10:28 [INFO]    save-all                  forces a server-wide level save
+2011-11-25 16:10:28 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2011-11-25 16:10:28 [INFO]    save-on                   re-enables terrain saving
+2011-11-25 16:10:28 [INFO]    list                      lists all currently connected players
+2011-11-25 16:10:28 [INFO]    say <message>             broadcasts a message to all players
+2011-11-25 16:10:28 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2011-11-25 16:10:28 [INFO]    gamemode <player> <mode>  sets player's game mode (0 or 1)
+2011-11-25 16:10:36 [INFO] Connected players: 
+2011-11-25 16:16:11 [INFO] boblemoche14 [/65.94.67.243:8246] logged in with entity id 9565 at (88.5, 65.62000000476837, 189.5)
+2011-11-25 16:16:39 [INFO] <boblemoche14> oooooh yeah
+2011-11-25 16:17:47 [INFO] [CONSOLE] boobies
+2011-11-25 16:17:53 [INFO] <boblemoche14> woooo
+2011-11-25 16:18:03 [INFO] <boblemoche14> night is coming :(
+2011-11-25 16:18:19 [INFO] [CONSOLE] you're screwed!
+2011-11-25 16:18:30 [INFO] [CONSOLE] I'm gonna spawn so many endermen
+2011-11-25 16:18:57 [INFO] <boblemoche14> haha why dont you join
+2011-11-25 16:19:04 [INFO] <boblemoche14> who cares about your job
+2011-11-25 16:22:41 [INFO] <boblemoche14> cool seed
+2011-11-25 16:27:49 [INFO] [CONSOLE] haha, you're right, who needs a job :P
+2011-11-25 16:28:03 [INFO] <boblemoche14> i know right
+2011-11-25 16:28:10 [INFO] <boblemoche14> video games are so much better
+2011-11-25 16:28:14 [INFO] <boblemoche14> its like duh
+2011-11-25 16:36:28 [INFO] 8bit_Gimli [/173.176.47.88:52655] logged in with entity id 34014 at (89.5, 65.62000000476837, 190.5)
+2011-11-25 16:36:35 [INFO] <boblemoche14> ooooo
+2011-11-25 16:36:45 [INFO] [CONSOLE] slutty bitches
+2011-11-25 16:36:45 [INFO] <boblemoche14> who are you?
+2011-11-25 16:36:59 [INFO] hebime [/173.176.47.88:51748] logged in with entity id 34747 at (87.5, 65.62000000476837, 189.5)
+2011-11-25 16:37:06 [INFO] <boblemoche14> woot woot
+2011-11-25 16:37:17 [INFO] [CONSOLE] these n0n00bz are my coworkers
+2011-11-25 16:37:23 [INFO] [CONSOLE] derp, n00bz
+2011-11-25 16:37:41 [INFO] <boblemoche14> helloo
+2011-11-25 16:37:46 [INFO] <hebime> yoooooooo
+2011-11-25 16:37:48 [INFO] <8bit_Gimli> blerue
+2011-11-25 16:38:12 [INFO] hebime lost connection: disconnect.quitting
+2011-11-25 16:38:14 [INFO] 8bit_Gimli lost connection: disconnect.endOfStream
+2011-11-25 16:38:21 [INFO] [CONSOLE] aw, no friends
+2011-11-25 16:38:23 [INFO] <boblemoche14> :(
+2011-11-25 16:38:35 [INFO] [CONSOLE] I guess they're supposed to be working or something
+2011-11-25 16:38:38 [INFO] <boblemoche14> they dont like me
+2011-11-25 16:38:43 [INFO] [CONSOLE] clearly
+2011-11-25 16:40:25 [INFO] <boblemoche14> I called my base EV 11
+2011-11-25 16:42:53 [INFO] [CONSOLE] hahaha
+2011-11-25 16:42:56 [INFO] [CONSOLE] amazing
+2011-11-25 16:44:41 [INFO] <boblemoche14> ouch
+2011-11-25 16:45:03 [INFO] [CONSOLE] did you expode?
+2011-11-25 16:45:11 [INFO] <boblemoche14> creeper :/
+2011-11-25 16:45:18 [INFO] [CONSOLE] balls
+2011-11-25 16:45:28 [INFO] <boblemoche14> got my stuff back already everythings cool
+2011-11-25 16:49:25 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-25 16:50:49 [INFO] boblemoche14 [/65.94.67.243:8294] logged in with entity id 48583 at (96.59375, 64.0, 174.46875)
+2011-11-25 17:18:05 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-25 17:21:04 [INFO] boblemoche14 [/65.94.67.243:8435] logged in with entity id 77821 at (95.65389287109244, 64.0, 168.54765921028084)
+2011-11-25 17:56:01 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-25 17:56:26 [INFO] boblemoche14 [/65.94.67.243:8487] logged in with entity id 128852 at (97.28125, 64.0, 169.5)
+2011-11-25 18:55:21 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-11-25 21:35:01 [INFO] PsychoDesigns [/206.248.179.71:50104] logged in with entity id 186986 at (101.5, 69.62000000476837, 190.5)
+2011-11-25 21:38:57 [INFO] boblemoche14 [/65.94.67.243:10514] logged in with entity id 191552 at (96.67806085604884, 64.0, 168.87969512763786)
+2011-11-25 21:39:06 [INFO] <boblemoche14> heyooooo
+2011-11-25 21:39:08 [INFO] <PsychoDesigns> hey
+2011-11-25 21:39:16 [INFO] <PsychoDesigns> This is Mo
+2011-11-25 21:39:30 [INFO] <boblemoche14> this is joachim
+2011-11-25 21:39:36 [INFO] <PsychoDesigns> lol nice skin
+2011-11-25 21:39:50 [INFO] <boblemoche14> whatsup???
+2011-11-25 21:39:57 [INFO] <PsychoDesigns> nm.. just joined
+2011-11-25 21:40:12 [INFO] <PsychoDesigns> started punching trees to start my own apt next to yours
+2011-11-25 21:40:17 [INFO] <boblemoche14> haha
+2011-11-25 21:40:29 [INFO] <PsychoDesigns> gotta get more wood...
+2011-11-25 21:40:56 [INFO] <PsychoDesigns> why can't I dig?
+2011-11-25 21:41:04 [INFO] <boblemoche14> theres an area around the spawn
+2011-11-25 21:41:09 [INFO] <boblemoche14> where you cant change stuff
+2011-11-25 21:41:15 [INFO] <PsychoDesigns> oh ok
+2011-11-25 21:41:22 [INFO] <PsychoDesigns> how come though?
+2011-11-25 21:41:25 [INFO] <boblemoche14> dunno
+2011-11-25 21:41:33 [INFO] <PsychoDesigns> bug?
+2011-11-25 21:41:34 [INFO] <boblemoche14> so you dont trap new players I think
+2011-11-25 21:41:38 [INFO] <boblemoche14> no its on purpose
+2011-11-25 21:41:39 [INFO] <PsychoDesigns> oh ok
+2011-11-25 21:41:55 [INFO] <boblemoche14> want some equipment?
+2011-11-25 21:42:09 [INFO] <PsychoDesigns> I'm ok
+2011-11-25 21:42:09 [INFO] <boblemoche14> I have a bunch of stuff already
+2011-11-25 21:42:22 [INFO] <boblemoche14> feel free to take things from the chest
+2011-11-25 21:42:31 [INFO] <PsychoDesigns> I wanna establish a shelter before I start figuring out my goals
+2011-11-25 21:42:35 [INFO] <PsychoDesigns> cheers
+2011-11-25 21:42:42 [INFO] <boblemoche14> haha you can use mine
+2011-11-25 21:42:45 [INFO] <boblemoche14> its EV11
+2011-11-25 21:42:54 [INFO] <boblemoche14> its for all the ludic voice people
+2011-11-25 21:42:58 [INFO] <PsychoDesigns> lol yeah I saw it
+2011-11-25 21:43:03 [INFO] <boblemoche14> I have a mine too
+2011-11-25 21:43:13 [INFO] <PsychoDesigns> cool.. where is urs?
+2011-11-25 21:43:21 [INFO] <boblemoche14> where are you?
+2011-11-25 21:43:24 [INFO] <boblemoche14> ill show you
+2011-11-25 21:43:26 [INFO] <PsychoDesigns> at the other pumpkin tower?
+2011-11-25 21:43:30 [INFO] <boblemoche14> yeah
+2011-11-25 21:44:13 [INFO] <PsychoDesigns> cute
+2011-11-25 21:44:14 [INFO] <boblemoche14> goes down straight to a cave at the diamond level
+2011-11-25 21:44:29 [INFO] <boblemoche14> havent done much mining yet though
+2011-11-25 21:45:40 [INFO] <PsychoDesigns> oh cool.. you found a spawn cage thingy
+2011-11-25 21:45:50 [INFO] <boblemoche14> yeah
+2011-11-25 21:45:53 [INFO] <boblemoche14> zombies
+2011-11-25 21:45:57 [INFO] <boblemoche14> I got some saddles :/
+2011-11-25 21:46:23 [INFO] <boblemoche14> tell me if you find diamonds :P
+2011-11-25 21:46:29 [INFO] <boblemoche14> I wanna make that portal
+2011-11-25 21:46:30 [INFO] <PsychoDesigns> lol ok
+2011-11-25 21:47:51 [INFO] <PsychoDesigns> ugh stupid stone pick axe.. gotta find some iron
+2011-11-25 21:48:11 [INFO] <boblemoche14> want me to give you some?
+2011-11-25 21:48:23 [INFO] <boblemoche14> its upstairs
+2011-11-25 21:48:26 [INFO] <PsychoDesigns> ffound some
+2011-11-25 21:50:23 [INFO] <boblemoche14> heres some more
+2011-11-25 21:50:35 [INFO] <PsychoDesigns> cheers
+2011-11-25 21:52:34 [INFO] <PsychoDesigns> oh shit I'm starving..
+2011-11-25 21:52:48 [INFO] <PsychoDesigns> I'm dying!
+2011-11-25 21:52:55 [INFO] <boblemoche14> I have some bread here
+2011-11-25 21:53:53 [INFO] <boblemoche14> hehe
+2011-11-25 21:53:59 [INFO] <PsychoDesigns> lol thanks
+2011-11-25 21:54:10 [INFO] <PsychoDesigns> I found a zombie on the way and ate hime
+2011-11-25 21:54:16 [INFO] <boblemoche14> haha
+2011-11-25 21:56:00 [INFO] <PsychoDesigns> we need an animal farm
+2011-11-25 21:56:16 [INFO] <boblemoche14> yeah
+2011-11-25 21:56:21 [INFO] <boblemoche14> theres no cows around here
+2011-11-25 21:56:31 [INFO] <boblemoche14> i had to look very far to make that cake
+2011-11-25 21:56:36 [INFO] <PsychoDesigns> lol.. aww
+2011-11-25 21:56:44 [INFO] <boblemoche14> not sure how you farm animals
+2011-11-25 21:56:57 [INFO] <PsychoDesigns> I think we just need to trap them and let them mate
+2011-11-25 21:57:04 [INFO] <PsychoDesigns> trap then with a fence
+2011-11-25 21:57:11 [INFO] <boblemoche14> dont you have to feed them so they mate?
+2011-11-25 21:57:17 [INFO] <PsychoDesigns> no idea
+2011-11-25 22:00:20 [INFO] <boblemoche14> woah cool house
+2011-11-25 22:00:25 [INFO] <PsychoDesigns> lol thanks
+2011-11-25 22:01:09 [INFO] <boblemoche14> where are you going with this?
+2011-11-25 22:01:39 [INFO] <PsychoDesigns> making a drop hole that goes into water for a quick exit
+2011-11-25 22:01:53 [INFO] <boblemoche14> haha
+2011-11-25 22:02:27 [INFO] <boblemoche14> ill get some wood for the fence
+2011-11-25 22:02:41 [INFO] <PsychoDesigns> cool.. I'll join you once I'm done here
+2011-11-25 22:03:14 [INFO] <boblemoche14> dont forget to replant the trees
+2011-11-25 22:03:18 [INFO] <boblemoche14> to be carbon neutral
+2011-11-25 22:03:25 [INFO] <PsychoDesigns> lol alright!
+2011-11-25 22:06:23 [INFO] <boblemoche14> do you have a bed?
+2011-11-25 22:06:28 [INFO] <boblemoche14> you should make one
+2011-11-25 22:06:33 [INFO] <PsychoDesigns> no.. what does it do?
+2011-11-25 22:06:37 [INFO] <boblemoche14> ohhh
+2011-11-25 22:06:47 [INFO] <boblemoche14> if everybody on the server sleeps
+2011-11-25 22:06:53 [INFO] <boblemoche14> it becomes day instantly
+2011-11-25 22:07:06 [INFO] <boblemoche14> very useful
+2011-11-25 22:07:13 [INFO] <boblemoche14> you need 3 planks and 3 wool
+2011-11-25 22:08:23 [INFO] <PsychoDesigns> alright I'm on it
+2011-11-25 22:08:36 [INFO] <boblemoche14> good night lol
+2011-11-25 22:08:40 [INFO] <PsychoDesigns> oh shit... got attacked... need a min
+2011-11-25 22:08:43 [INFO] <boblemoche14> wait haha
+2011-11-25 22:08:44 [INFO] <boblemoche14> oops
+2011-11-25 22:08:47 [INFO] <boblemoche14> forgot to tell you
+2011-11-25 22:08:56 [INFO] <boblemoche14> the bed needs to be in a closed space
+2011-11-25 22:09:04 [INFO] <boblemoche14> where no monster can spawn
+2011-11-25 22:09:08 [INFO] <boblemoche14> so you need to light it
+2011-11-25 22:09:24 [INFO] <PsychoDesigns> 1 block holes are ok?
+2011-11-25 22:09:31 [INFO] <PsychoDesigns> or they need to be glassed off
+2011-11-25 22:09:36 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-25 22:09:57 [INFO] boblemoche14 [/65.94.67.243:10684] logged in with entity id 227456 at (99.5, 64.0999984741211, 168.5)
+2011-11-25 22:10:06 [INFO] <boblemoche14> one block hole should be ok
+2011-11-25 22:10:15 [INFO] <boblemoche14> I disconnected :/
+2011-11-25 22:10:30 [INFO] <PsychoDesigns> yeah I thought you meant goodnight in IRL
+2011-11-25 22:10:51 [INFO] <boblemoche14> haha
+2011-11-25 22:11:02 [INFO] <boblemoche14> try it
+2011-11-25 22:11:05 [INFO] <PsychoDesigns> I'm trapped.. I got enemies all around me
+2011-11-25 22:11:12 [INFO] <boblemoche14> hmm
+2011-11-25 22:11:16 [INFO] <PsychoDesigns> can;t go get wool
+2011-11-25 22:11:22 [INFO] <boblemoche14> haha nevermind then
+2011-11-25 22:11:31 [INFO] <PsychoDesigns> lol sorry
+2011-11-25 22:15:11 [INFO] <boblemoche14> ok you have to give wheat to animals to make them horny apparently
+2011-11-25 22:15:17 [INFO] <boblemoche14> according to the wiki
+2011-11-25 22:16:02 [INFO] <boblemoche14> ill try a chicken farm
+2011-11-25 22:16:14 [INFO] <PsychoDesigns> yeah we can use the feathers for arrows too
+2011-11-25 22:17:44 [INFO] <boblemoche14> ahhh its just sheep everywhere!
+2011-11-25 22:17:50 [INFO] <PsychoDesigns> yeah
+2011-11-25 22:19:38 [INFO] <boblemoche14> ok i have a breeding couple
+2011-11-25 22:20:33 [INFO] <PsychoDesigns> ok I got a bed!
+2011-11-25 22:21:54 [INFO] <boblemoche14> yay
+2011-11-25 22:21:59 [INFO] <boblemoche14> baby chicken
+2011-11-25 22:22:30 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-25 22:22:39 [INFO] <PsychoDesigns> steph is next to me crying " I wannna playyyy!"
+2011-11-25 22:22:52 [INFO] boblemoche14 [/65.94.67.243:10794] logged in with entity id 243185 at (65.6875, 64.0, 178.59375)
+2011-11-25 22:23:14 [INFO] <PsychoDesigns> steph is next to me crying "I wanna playyyy!!!"
+2011-11-25 22:23:24 [INFO] <boblemoche14> haha
+2011-11-25 22:23:28 [INFO] <boblemoche14> buy her an account
+2011-11-25 22:24:00 [INFO] <boblemoche14> this is better :)
+2011-11-25 22:24:07 [INFO] <PsychoDesigns> oh nice... I had no idea
+2011-11-25 22:24:53 [INFO] <boblemoche14> the chickens are still in love cooldown mode
+2011-11-25 22:24:56 [INFO] <boblemoche14> :/
+2011-11-25 22:25:32 [INFO] <boblemoche14> ok lets try the beds again
+2011-11-25 22:25:51 [INFO] <PsychoDesigns> tI'm in bed
+2011-11-25 22:25:55 [INFO] <boblemoche14> tada
+2011-11-25 22:26:06 [INFO] <PsychoDesigns> nice
+2011-11-25 22:26:25 [INFO] <PsychoDesigns> check out my drop whole
+2011-11-25 22:26:34 [INFO] <boblemoche14> haha
+2011-11-25 22:26:38 [INFO] <PsychoDesigns> oh crap it damages
+2011-11-25 22:26:48 [INFO] <boblemoche14> the pool needs to be deeper
+2011-11-25 22:26:59 [INFO] <PsychoDesigns> fixed
+2011-11-25 22:27:23 [INFO] <boblemoche14> \
+2011-11-25 22:27:25 [INFO] <PsychoDesigns> what append to  the chicken?
+2011-11-25 22:27:30 [INFO] <boblemoche14> wait
+2011-11-25 22:27:36 [INFO] <boblemoche14> one of them is missing
+2011-11-25 22:27:41 [INFO] <boblemoche14> did you eat it?
+2011-11-25 22:27:47 [INFO] <PsychoDesigns> oh here it is
+2011-11-25 22:27:50 [INFO] <PsychoDesigns> lol no
+2011-11-25 22:27:53 [INFO] <boblemoche14> no this is a new one
+2011-11-25 22:27:57 [INFO] <boblemoche14> they just made
+2011-11-25 22:28:20 [INFO] <boblemoche14> wieerd
+2011-11-25 22:28:33 [INFO] <PsychoDesigns> how do they jump over the fense.. it might need to be taller
+2011-11-25 22:28:47 [INFO] <boblemoche14> i dont think they can jump\
+2011-11-25 22:28:50 [INFO] <boblemoche14> can they?
+2011-11-25 22:29:06 [INFO] <PsychoDesigns> I think one of them was standing or the fence
+2011-11-25 22:29:16 [INFO] <boblemoche14> yeah i think its just a visual bug
+2011-11-25 22:29:23 [INFO] <boblemoche14> i dont think they can get to the other side
+2011-11-25 22:29:30 [INFO] <boblemoche14> oh wait
+2011-11-25 22:29:34 [INFO] <boblemoche14> yes they can
+2011-11-25 22:29:41 [INFO] <boblemoche14> i just found the missing chicken outside lol
+2011-11-25 22:29:47 [INFO] <PsychoDesigns> lol
+2011-11-25 22:30:18 [INFO] <boblemoche14> it should be following you if you have wheat
+2011-11-25 22:30:26 [INFO] <PsychoDesigns> oh really? cool
+2011-11-25 22:30:27 [INFO] <boblemoche14> doesnt seem to work
+2011-11-25 22:30:33 [INFO] <boblemoche14> it worked with the other ones
+2011-11-25 22:30:38 [INFO] <boblemoche14> try it
+2011-11-25 22:30:51 [INFO] <boblemoche14> just gave you wheat
+2011-11-25 22:31:12 [INFO] <boblemoche14> hmm its too young and stupid
+2011-11-25 22:31:32 [INFO] <boblemoche14> lets just eat it
+2011-11-25 22:31:37 [INFO] <boblemoche14> its parents can make another one
+2011-11-25 22:31:38 [INFO] <PsychoDesigns> isnt it too small
+2011-11-25 22:31:44 [INFO] <boblemoche14> oops
+2011-11-25 22:31:45 [INFO] <PsychoDesigns> yeah too small
+2011-11-25 22:31:47 [INFO] <boblemoche14> i guess
+2011-11-25 22:32:13 [INFO] <boblemoche14> aaah nooo
+2011-11-25 22:32:17 [INFO] <boblemoche14> fuuck
+2011-11-25 22:32:25 [INFO] <boblemoche14> im the worst farmer
+2011-11-25 22:32:55 [INFO] <boblemoche14> they follow the little one
+2011-11-25 22:33:12 [INFO] <boblemoche14> maybe once its bigger theyll follow the wheat agian?
+2011-11-25 22:33:32 [INFO] <PsychoDesigns> they are not following me
+2011-11-25 22:33:43 [INFO] <boblemoche14> yeah i think if they have a baby they follow it instead
+2011-11-25 22:33:50 [INFO] <boblemoche14> we have to wait for it to grow
+2011-11-25 22:33:54 [INFO] <PsychoDesigns> kill the baby?
+2011-11-25 22:33:57 [INFO] <boblemoche14> maybe you can trap them in a hole
+2011-11-25 22:34:04 [INFO] <boblemoche14> or that lol
+2011-11-25 22:34:21 [INFO] <boblemoche14> lol
+2011-11-25 22:34:41 [INFO] <boblemoche14> im stuck too now
+2011-11-25 22:35:06 [INFO] <boblemoche14> lol
+2011-11-25 22:35:12 [INFO] <boblemoche14> this is the shittiest farm
+2011-11-25 22:37:04 [INFO] <PsychoDesigns> bed time?
+2011-11-25 22:37:13 [INFO] <boblemoche14> k
+2011-11-25 22:38:16 [INFO] <PsychoDesigns> creepers.. watch out
+2011-11-25 22:38:45 [INFO] <boblemoche14> theres an egg in the hole now
+2011-11-25 22:39:14 [INFO] <PsychoDesigns> I'll try to make the whole bigger
+2011-11-25 22:40:21 [INFO] <PsychoDesigns> I made it bigger but I hit and killed the baby by mistake
+2011-11-25 22:40:26 [INFO] <boblemoche14> hahaha
+2011-11-25 22:40:36 [INFO] <boblemoche14> do you see this?
+2011-11-25 22:40:39 [INFO] <PsychoDesigns> yeah
+2011-11-25 22:40:47 [INFO] <boblemoche14> its the ghost of the baby chicken
+2011-11-25 22:40:48 [INFO] <boblemoche14> ?
+2011-11-25 22:40:51 [INFO] <PsychoDesigns> lol
+2011-11-25 22:41:04 [INFO] <boblemoche14> ok this suckjs
+2011-11-25 22:41:07 [INFO] <boblemoche14> we cant feed themn
+2011-11-25 22:41:12 [INFO] <boblemoche14> haha
+2011-11-25 22:41:27 [INFO] <PsychoDesigns> how do we feed them.. throw wheet at them
+2011-11-25 22:41:33 [INFO] <boblemoche14> no right click wheat
+2011-11-25 22:41:36 [INFO] <boblemoche14> on them
+2011-11-25 22:41:41 [INFO] <boblemoche14> we need to get to them
+2011-11-25 22:41:57 [INFO] <PsychoDesigns> ok they're fcuking
+2011-11-25 22:42:31 [INFO] <boblemoche14> this is a terrible farm
+2011-11-25 22:42:42 [INFO] <PsychoDesigns> I'll make a glass floor it'll be an awesome farm!
+2011-11-25 22:42:46 [INFO] <boblemoche14> haha
+2011-11-25 22:42:55 [INFO] <boblemoche14> every time we want to feed them we have to break the floor
+2011-11-25 22:43:21 [INFO] <boblemoche14> look i have the solution
+2011-11-25 22:43:38 [INFO] <PsychoDesigns> lol
+2011-11-25 22:45:33 [INFO] <PsychoDesigns> lol nice
+2011-11-25 22:45:43 [INFO] <PsychoDesigns> just dont leave it open again!
+2011-11-25 22:45:52 [INFO] <boblemoche14> haha
+2011-11-25 22:46:01 [INFO] <boblemoche14> this is so twisted
+2011-11-25 22:46:30 [INFO] <boblemoche14> dont expand the dungeon too much
+2011-11-25 22:46:39 [INFO] <PsychoDesigns> room for more chicken?
+2011-11-25 22:46:50 [INFO] <boblemoche14> haha thinking ahead
+2011-11-25 22:47:21 [INFO] <PsychoDesigns> close the door behind you!
+2011-11-25 22:47:34 [INFO] <boblemoche14> i hope no mob can spawn down there
+2011-11-25 22:47:40 [INFO] <PsychoDesigns> oh right
+2011-11-25 22:48:18 [INFO] <boblemoche14> bedtime
+2011-11-25 22:48:33 [INFO] <PsychoDesigns> yeah
+2011-11-25 22:48:49 [INFO] <PsychoDesigns> I'ma mine for a bit
+2011-11-25 22:48:59 [INFO] <boblemoche14> yeah i need diamonds
+2011-11-25 22:49:32 [INFO] <boblemoche14> fourth chicken!
+2011-11-25 22:49:35 [INFO] <PsychoDesigns> nice
+2011-11-25 22:51:32 [INFO] <PsychoDesigns> where ru?
+2011-11-25 22:51:39 [INFO] <boblemoche14> in the mine
+2011-11-25 22:51:46 [INFO] <boblemoche14> killing zombies
+2011-11-25 22:52:27 [INFO] <PsychoDesigns> coming
+2011-11-25 22:52:39 [INFO] <boblemoche14> ill go back to the entrance
+2011-11-25 22:52:52 [INFO] <PsychoDesigns> fuck I'm starving again
+2011-11-25 22:53:14 [INFO] <boblemoche14> i have nothing
+2011-11-25 22:53:39 [INFO] <PsychoDesigns> hmmm... I guess I have to go hunting on the sruface
+2011-11-25 22:53:49 [INFO] <boblemoche14> or zombies
+2011-11-25 22:53:55 [INFO] <PsychoDesigns> yeah
+2011-11-25 22:53:57 [INFO] <boblemoche14> theres a cave that way
+2011-11-25 22:54:15 [INFO] <boblemoche14> you can eat spider eyes too
+2011-11-25 22:54:27 [INFO] <PsychoDesigns> really? what does that do?
+2011-11-25 22:54:37 [INFO] <boblemoche14> food
+2011-11-25 22:54:39 [INFO] <boblemoche14> r
+2011-11-25 22:55:13 [INFO] <boblemoche14> lol
+2011-11-25 22:55:13 [INFO] <PsychoDesigns> fucking creapers!
+2011-11-25 22:55:15 [INFO] <boblemoche14> dont worry
+2011-11-25 22:55:19 [INFO] <boblemoche14> i have your stuff
+2011-11-25 22:55:24 [INFO] <PsychoDesigns> omw
+2011-11-25 22:55:31 [INFO] <boblemoche14> at least youre not hungry now
+2011-11-25 22:55:39 [INFO] <PsychoDesigns> lol true
+2011-11-25 22:55:41 [INFO] <boblemoche14> also
+2011-11-25 22:55:48 [INFO] <boblemoche14> the explosion revealed diamond
+2011-11-25 22:55:51 [INFO] <boblemoche14> :D
+2011-11-25 22:55:52 [INFO] <PsychoDesigns> nice
+2011-11-25 22:55:59 [INFO] <PsychoDesigns> you're welcome!
+2011-11-25 22:56:37 [INFO] <boblemoche14> shit
+2011-11-25 22:56:39 [INFO] <boblemoche14> im starvin
+2011-11-25 22:56:41 [INFO] <boblemoche14> no food
+2011-11-25 22:57:03 [INFO] <PsychoDesigns> where are you again? I'm lost
+2011-11-25 22:57:10 [INFO] <PsychoDesigns> here is a zombie here
+2011-11-25 22:57:12 [INFO] <boblemoche14> im going back to the entrance
+2011-11-25 22:58:02 [INFO] <PsychoDesigns> where is my stuff?
+2011-11-25 22:58:05 [INFO] <PsychoDesigns> cheers
+2011-11-25 22:58:55 [INFO] <boblemoche14> your good?
+2011-11-25 22:59:01 [INFO] <PsychoDesigns> I think so.. thanks!
+2011-11-25 22:59:02 [INFO] <boblemoche14> ill go make my diamond pick
+2011-11-25 22:59:18 [INFO] <PsychoDesigns> fucking creepers
+2011-11-25 22:59:36 [INFO] <boblemoche14> i thinik the lag makes them harder to avoid
+2011-11-25 23:04:56 [INFO] <boblemoche14> ouch
+2011-11-25 23:05:03 [INFO] <PsychoDesigns> god damn creepers!
+2011-11-25 23:05:17 [INFO] <PsychoDesigns> alright I guess its a sign.. I'm going to bed.. IRL
+2011-11-25 23:05:34 [INFO] <boblemoche14> haha ill go too
+2011-11-25 23:05:40 [INFO] <boblemoche14> next time... portal
+2011-11-25 23:05:45 [INFO] <PsychoDesigns> sure!
+2011-11-25 23:05:48 [INFO] <PsychoDesigns> good night
+2011-11-25 23:06:01 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-11-25 23:06:02 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-26 01:13:46 [INFO] bzgeb [/70.80.148.9:33770] logged in with entity id 288695 at (93.5, 64.0, 192.5)
+2011-11-26 01:14:12 [INFO] bzgeb lost connection: disconnect.quitting
+2011-11-26 01:14:28 [INFO] bzgeb [/70.80.148.9:43352] logged in with entity id 290024 at (94.8368818051387, 66.0, 206.64276895936086)
+2011-11-26 01:15:21 [INFO] bzgeb lost connection: disconnect.quitting
+2011-11-26 03:16:56 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-26 03:16:58 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-26 03:17:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-26 08:43:30 [INFO] PsychoDesigns [/206.248.131.244:50925] logged in with entity id 291847 at (38.5, 75.0, 195.5)
+2011-11-26 09:05:29 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-26 16:45:23 [INFO] 8bit_Gimli [/173.176.164.111:50092] logged in with entity id 316378 at (66.28125, 63.0, 174.65625)
+2011-11-26 16:48:55 [INFO] 8bit_Gimli lost connection: disconnect.quitting
+2011-11-26 17:29:43 [INFO] PsychoDesigns [/132.205.139.59:51974] logged in with entity id 321408 at (38.5, 75.0, 195.5)
+2011-11-26 17:31:55 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-26 18:27:52 [INFO] PsychoDesigns [/132.205.139.59:52405] logged in with entity id 324140 at (40.46875, 75.0, 194.3125)
+2011-11-26 18:44:15 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-26 21:51:42 [INFO] PsychoDesigns [/132.205.139.59:50618] logged in with entity id 345234 at (40.313762672940534, 75.0, 195.30061092449077)
+2011-11-26 22:00:09 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-27 00:09:20 [INFO] boblemoche14 [/65.94.67.243:1895] logged in with entity id 355256 at (97.65625, 64.0, 168.28125)
+2011-11-27 00:19:48 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-11-27 11:48:12 [INFO] bzgeb [/70.80.148.9:35937] logged in with entity id 367888 at (95.60041950920693, 64.0, 171.07987699557685)
+2011-11-27 11:48:38 [INFO] bzgeb lost connection: disconnect.quitting
+2011-11-27 16:16:30 [INFO] boblemoche14 [/65.94.67.243:8884] logged in with entity id 368640 at (98.51313040739258, 64.0, 169.2539225851976)
+2011-11-27 16:23:44 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-11-27 17:11:53 [INFO] PsychoDesigns [/69.196.186.167:6454] logged in with entity id 378181 at (40.32786850021268, 75.0, 194.87001778085408)
+2011-11-27 18:02:54 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-27 18:16:02 [INFO] PsychoDesigns [/69.196.186.167:61181] logged in with entity id 445126 at (40.43442123828544, 75.0, 194.75528910431566)
+2011-11-27 18:38:32 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-27 22:59:44 [INFO] boblemoche14 [/65.94.67.243:11390] logged in with entity id 481340 at (98.08794097409987, 64.0, 169.19590693890032)
+2011-11-27 23:35:16 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-27 23:35:41 [INFO] boblemoche14 [/65.94.67.243:11437] logged in with entity id 518993 at (56.0625, 64.0, 131.96875)
+2011-11-27 23:50:45 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-11-28 11:46:46 [INFO] PsychoDesigns [/132.205.139.68:55845] logged in with entity id 538659 at (38.5, 75.0, 195.5)
+2011-11-28 12:21:10 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-28 13:29:08 [INFO] PsychoDesigns [/132.205.139.68:57520] logged in with entity id 573025 at (42.69999998807907, 76.0, 177.71471748630992)
+2011-11-28 13:37:01 [INFO] boblemoche14 [/65.94.67.243:17953] logged in with entity id 583463 at (98.62263408378011, 64.0, 169.24346688084137)
+2011-11-28 13:37:13 [INFO] <PsychoDesigns> hey!
+2011-11-28 13:37:14 [INFO] <boblemoche14> yo
+2011-11-28 13:37:24 [INFO] <boblemoche14> whats new?
+2011-11-28 13:37:38 [INFO] <PsychoDesigns> not much... just farming and makign sure we have enough food
+2011-11-28 13:37:46 [INFO] <boblemoche14> haha
+2011-11-28 13:37:47 [INFO] <PsychoDesigns> so we can go hunt for Diamonds together
+2011-11-28 13:37:58 [INFO] <boblemoche14> where do you want to build the portal?
+2011-11-28 13:38:05 [INFO] <PsychoDesigns> you got it?
+2011-11-28 13:38:26 [INFO] <boblemoche14> yeah I got some obsidian from my mine
+2011-11-28 13:38:31 [INFO] <PsychoDesigns> nice
+2011-11-28 13:38:36 [INFO] <boblemoche14> with the diamonds you exposed by blowing up last time
+2011-11-28 13:38:37 [INFO] <PsychoDesigns> near our village?
+2011-11-28 13:38:46 [INFO] <PsychoDesigns> oh yeah
+2011-11-28 13:38:57 [INFO] <boblemoche14> I had just enough of them
+2011-11-28 13:39:19 [INFO] <PsychoDesigns> I just fed the chickens and pigs
+2011-11-28 13:39:24 [INFO] <boblemoche14> wow the chicken population got thinned out
+2011-11-28 13:39:34 [INFO] <PsychoDesigns> I killed some of them for food
+2011-11-28 13:39:40 [INFO] <PsychoDesigns> here
+2011-11-28 13:39:42 [INFO] <boblemoche14> :P
+2011-11-28 13:39:51 [INFO] <boblemoche14> oh  I have a bunch already
+2011-11-28 13:40:20 [INFO] <PsychoDesigns> gotta cook some and make weapons... you can start building your portal
+2011-11-28 13:40:28 [INFO] <boblemoche14> here?
+2011-11-28 13:41:06 [INFO] <PsychoDesigns> its almost night... better sleep
+2011-11-28 13:41:10 [INFO] <boblemoche14> k
+2011-11-28 13:41:31 [INFO] <PsychoDesigns> tlast time a creeper blew up my house!
+2011-11-28 13:42:28 [INFO] <PsychoDesigns> got some coal for me?
+2011-11-28 13:42:38 [INFO] <boblemoche14> check in my furnace
+2011-11-28 13:42:44 [INFO] <boblemoche14> I have a bunch
+2011-11-28 13:44:30 [INFO] <boblemoche14> ready to go to hell?
+2011-11-28 13:44:37 [INFO] <PsychoDesigns> in a min...
+2011-11-28 13:44:44 [INFO] <PsychoDesigns> put your cooked chicken in your chest
+2011-11-28 13:44:52 [INFO] <boblemoche14> cool thanks
+2011-11-28 13:45:18 [INFO] <PsychoDesigns> oh you got string?
+2011-11-28 13:45:29 [INFO] <boblemoche14> yep I have 8
+2011-11-28 13:45:33 [INFO] <PsychoDesigns> need 1 more for the bow
+2011-11-28 13:46:08 [INFO] <boblemoche14> we should light up the area around the base too
+2011-11-28 13:46:13 [INFO] <boblemoche14> creepers keep spawning
+2011-11-28 13:46:17 [INFO] <PsychoDesigns> yeah
+2011-11-28 13:46:23 [INFO] <PsychoDesigns> I don't have much coal
+2011-11-28 13:49:18 [INFO] <PsychoDesigns> what else do we need in hell other than weapon and armor?
+2011-11-28 13:49:26 [INFO] <boblemoche14> hmmm
+2011-11-28 13:49:42 [INFO] <boblemoche14> Im bringing cobblestone
+2011-11-28 13:49:52 [INFO] <boblemoche14> to build a fort around the exit portal
+2011-11-28 13:50:02 [INFO] <PsychoDesigns> cool
+2011-11-28 13:50:05 [INFO] <PsychoDesigns> ready
+2011-11-28 13:50:11 [INFO] <boblemoche14> k
+2011-11-28 13:50:15 [INFO] <PsychoDesigns> unless you wanna sleep first
+2011-11-28 13:50:25 [INFO] <boblemoche14> nah lets go
+2011-11-28 13:50:34 [INFO] <PsychoDesigns> with you
+2011-11-28 13:50:52 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-28 13:51:01 [INFO] <boblemoche14> oooo
+2011-11-28 13:51:05 [INFO] <PsychoDesigns> lol
+2011-11-28 13:53:04 [INFO] <PsychoDesigns> there is a mob outside
+2011-11-28 13:53:06 [INFO] <PsychoDesigns> watch out
+2011-11-28 13:53:52 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 13:54:11 [INFO] boblemoche14 [/65.94.67.243:18024] logged in with entity id 603739 at (13.25, 47.0, 32.6875)
+2011-11-28 13:55:08 [INFO] <boblemoche14> awesome fort
+2011-11-28 13:55:14 [INFO] <boblemoche14> lol
+2011-11-28 13:55:18 [INFO] <boblemoche14> we should bring a door later
+2011-11-28 13:55:27 [INFO] <boblemoche14> ah there you go
+2011-11-28 13:55:27 [INFO] <PsychoDesigns> i made one
+2011-11-28 13:55:50 [INFO] <PsychoDesigns> i got a golden nugget from a zombie
+2011-11-28 13:55:54 [INFO] <boblemoche14> coool
+2011-11-28 13:56:02 [INFO] <PsychoDesigns> we need a watch tower
+2011-11-28 13:56:48 [INFO] <boblemoche14> ohh theres some stuff up there
+2011-11-28 13:57:11 [INFO] <PsychoDesigns> behind you
+2011-11-28 13:57:32 [INFO] <boblemoche14> cool ladder
+2011-11-28 13:59:23 [INFO] <boblemoche14> tell me if you find any dungeons
+2011-11-28 13:59:30 [INFO] <PsychoDesigns> sure
+2011-11-28 14:00:04 [INFO] <boblemoche14> watch out
+2011-11-28 14:01:02 [INFO] <PsychoDesigns> I'm using stone to as markers
+2011-11-28 14:01:09 [INFO] <boblemoche14> good idea
+2011-11-28 14:04:26 [INFO] <PsychoDesigns> anything interesting?
+2011-11-28 14:04:49 [INFO] <boblemoche14> hmm not really
+2011-11-28 14:05:07 [INFO] <PsychoDesigns> I'm fighting enemies... got few gold nuggets and dust
+2011-11-28 14:05:20 [INFO] <boblemoche14> hehe
+2011-11-28 14:05:26 [INFO] <boblemoche14> the pigmen are my friends
+2011-11-28 14:05:29 [INFO] <boblemoche14> they dont attack me
+2011-11-28 14:07:05 [INFO] <boblemoche14> shit
+2011-11-28 14:07:10 [INFO] <boblemoche14> I lost all my stuff haha
+2011-11-28 14:07:10 [INFO] <PsychoDesigns> lol
+2011-11-28 14:07:34 [INFO] <PsychoDesigns> I built a chest in our shelter to drop stuff in
+2011-11-28 14:09:52 [INFO] <boblemoche14> ooh I found something
+2011-11-28 14:09:58 [INFO] <PsychoDesigns> where?
+2011-11-28 14:10:00 [INFO] <boblemoche14> in the distance
+2011-11-28 14:10:13 [INFO] <boblemoche14> ill go back and show you
+2011-11-28 14:11:10 [INFO] <boblemoche14> im at the watchtower
+2011-11-28 14:11:30 [INFO] <boblemoche14> follow me
+2011-11-28 14:11:46 [INFO] <PsychoDesigns> oo
+2011-11-28 14:11:51 [INFO] <boblemoche14> its dangerous here if a ghost thing spawns
+2011-11-28 14:12:38 [INFO] <boblemoche14> this is where I died
+2011-11-28 14:12:48 [INFO] <boblemoche14> lost all my cobbleston
+2011-11-28 14:12:59 [INFO] <boblemoche14> here look
+2011-11-28 14:13:05 [INFO] <boblemoche14> far away in the fog
+2011-11-28 14:13:16 [INFO] <PsychoDesigns> I dont see it
+2011-11-28 14:13:19 [INFO] <boblemoche14> some kind of bridge or aqueduct
+2011-11-28 14:13:35 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 14:13:36 [INFO] <PsychoDesigns> lets go and check it out
+2011-11-28 14:13:48 [INFO] boblemoche14 [/65.94.67.243:18101] logged in with entity id 609385 at (-175.40625, 57.0, 42.25)
+2011-11-28 14:13:54 [INFO] <boblemoche14> oops
+2011-11-28 14:13:58 [INFO] <boblemoche14> i crashed
+2011-11-28 14:14:06 [INFO] <boblemoche14> is your view distance to the max?
+2011-11-28 14:14:37 [INFO] <PsychoDesigns> yeah
+2011-11-28 14:14:46 [INFO] <boblemoche14> you cant see the bridge?
+2011-11-28 14:14:55 [INFO] <PsychoDesigns> fuck 2 ghosts!
+2011-11-28 14:15:12 [INFO] <PsychoDesigns> I belt a tiny shelter to hide
+2011-11-28 14:15:16 [INFO] <boblemoche14> haha
+2011-11-28 14:15:55 [INFO] <boblemoche14> do you have a sword?
+2011-11-28 14:16:03 [INFO] <boblemoche14> you can hit the fireballs back at them
+2011-11-28 14:16:05 [INFO] <boblemoche14> like in zelda
+2011-11-28 14:17:48 [INFO] <boblemoche14> oops
+2011-11-28 14:17:51 [INFO] PsychoDesigns [/132.205.139.68:57589] logged in with entity id 611030 at (-109.4858637388092, 42.0, 30.802118086463373)
+2011-11-28 14:17:55 [INFO] <boblemoche14> you died
+2011-11-28 14:18:02 [INFO] <boblemoche14> but not in lava
+2011-11-28 14:18:05 [INFO] <PsychoDesigns> we need back up
+2011-11-28 14:18:14 [INFO] <boblemoche14> you might be able to get your stuff back
+2011-11-28 14:20:09 [INFO] <PsychoDesigns> nah too many zombies
+2011-11-28 14:20:19 [INFO] <boblemoche14> the zombies are friendly if you leave them alone
+2011-11-28 14:20:30 [INFO] <PsychoDesigns> alright I gotta get back to work anyway
+2011-11-28 14:20:34 [INFO] <boblemoche14> hehe
+2011-11-28 14:20:42 [INFO] <PsychoDesigns> steph says hi
+2011-11-28 14:20:47 [INFO] <boblemoche14> hey steph
+2011-11-28 14:20:59 [INFO] <boblemoche14> when is she playing minecraft with us?
+2011-11-28 14:21:11 [INFO] <PsychoDesigns> alright I'm off... good luck and god speed! yes after the semester
+2011-11-28 14:21:28 [INFO] <boblemoche14> cool
+2011-11-28 14:21:33 [INFO] <boblemoche14> bye
+2011-11-28 14:21:38 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-28 14:23:00 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 14:23:27 [INFO] boblemoche14 [/65.94.67.243:18162] logged in with entity id 613584 at (-212.71875, 40.0, 30.53125)
+2011-11-28 14:25:34 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 15:26:09 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-28 16:57:57 [INFO] PsychoDesigns [/132.205.139.68:58848] logged in with entity id 614533 at (39.40625, 75.0, 193.3125)
+2011-11-28 17:43:32 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-28 19:18:14 [INFO] boblemoche14 [/65.94.67.243:20615] logged in with entity id 659152 at (96.68814225572761, 64.0, 170.21420817917954)
+2011-11-28 19:49:37 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 19:49:51 [INFO] boblemoche14 [/65.94.67.243:20750] logged in with entity id 706911 at (-78.80110623654716, 89.0, 253.98644976543392)
+2011-11-28 20:12:11 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 20:12:29 [INFO] boblemoche14 [/65.94.67.243:20779] logged in with entity id 742602 at (357.0, 64.0, 32.53125)
+2011-11-28 20:28:27 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 20:28:42 [INFO] boblemoche14 [/65.94.67.243:20799] logged in with entity id 768518 at (184.21875149862194, 64.0, 418.8155595087194)
+2011-11-28 20:43:54 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 20:44:07 [INFO] boblemoche14 [/65.94.67.243:20823] logged in with entity id 778324 at (95.28125, 64.0, 169.3125)
+2011-11-28 20:52:26 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 20:52:54 [INFO] boblemoche14 [/65.94.67.243:20941] logged in with entity id 785595 at (17.558195033940002, 60.0, 16.300000011920933)
+2011-11-28 21:01:03 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 21:01:17 [INFO] boblemoche14 [/65.94.67.243:20958] logged in with entity id 788109 at (-13.69999998807906, 88.0, -99.82046099225379)
+2011-11-28 21:14:00 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 21:14:52 [INFO] boblemoche14 [/65.94.67.243:21039] logged in with entity id 790684 at (-207.98246285254157, 47.0, 174.43174764640727)
+2011-11-28 21:24:45 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-11-28 22:00:27 [INFO] boblemoche14 [/65.94.67.243:21779] lost connection
+2011-11-28 22:01:20 [INFO] boblemoche14 [/65.94.67.243:21798] logged in with entity id 800971 at (97.69999998807909, 64.0, 170.71623033475444)
+2011-11-28 22:13:56 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 22:14:07 [INFO] boblemoche14 [/65.94.67.243:21838] logged in with entity id 817955 at (96.3125, 64.0, 177.875)
+2011-11-28 22:20:49 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 22:20:59 [INFO] boblemoche14 [/65.94.67.243:21911] logged in with entity id 828838 at (99.5, 64.0999984741211, 168.5)
+2011-11-28 22:28:01 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 22:28:10 [INFO] boblemoche14 [/65.94.67.243:21940] logged in with entity id 834138 at (438.6875, 64.0, 582.9375)
+2011-11-28 22:38:04 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 22:38:16 [INFO] boblemoche14 [/65.94.67.243:21956] logged in with entity id 853632 at (-323.4375, 68.0, 375.28125)
+2011-11-28 22:57:37 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-28 22:57:58 [INFO] boblemoche14 [/65.94.67.243:21978] logged in with entity id 879316 at (96.65625, 64.0, 169.21875)
+2011-11-28 23:00:57 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-11-29 08:23:45 [INFO] bzgeb [/173.178.85.7:50029] logged in with entity id 884807 at (96.48240163552411, 64.0, 171.97936934137098)
+2011-11-29 08:43:13 [INFO] bzgeb lost connection: disconnect.quitting
+2011-11-29 11:02:10 [INFO] PsychoDesigns [/76.10.162.226:60868] logged in with entity id 905269 at (41.34369130576854, 75.0, 195.52531914047208)
+2011-11-29 12:04:36 [INFO] <PsychoDesigns> help
+2011-11-29 12:04:50 [INFO] PsychoDesigns tried command: help
+2011-11-29 12:08:03 [INFO] bzgeb [/173.178.85.7:53791] logged in with entity id 989130 at (31.5, 64.0, 138.71875)
+2011-11-29 12:08:25 [INFO] <PsychoDesigns> yo
+2011-11-29 12:09:07 [INFO] <bzgeb> sup
+2011-11-29 12:09:16 [INFO] <PsychoDesigns> Bronson?
+2011-11-29 12:09:20 [INFO] <bzgeb> the server's being super laggy :[
+2011-11-29 12:09:22 [INFO] <bzgeb> yup
+2011-11-29 12:09:41 [INFO] <PsychoDesigns> yeah... I thought it might be my connection
+2011-11-29 12:12:45 [INFO] <bzgeb> I think your house exploded a little this morning
+2011-11-29 12:12:51 [INFO] <bzgeb> if your house is the one that's on fire
+2011-11-29 12:13:07 [INFO] <PsychoDesigns> yeah I noticed a whole in my ceiling when I logged in
+2011-11-29 12:13:13 [INFO] <PsychoDesigns> creepers?
+2011-11-29 12:13:18 [INFO] <bzgeb> hahaha
+2011-11-29 12:13:30 [INFO] <bzgeb> I think so.  I was walking along the top and I think there was a creeper hiding inside
+2011-11-29 12:13:45 [INFO] <bzgeb> and all of a sudden I was dead
+2011-11-29 12:13:47 [INFO] <PsychoDesigns> lol yeah.. they love my place
+2011-11-29 12:14:12 [INFO] <PsychoDesigns> see the cliff infront of my door? at least 3 creepers blew up there
+2011-11-29 12:14:23 [INFO] <bzgeb> :/
+2011-11-29 12:14:27 [INFO] <bzgeb> it's like a creeper magnet
+2011-11-29 12:14:39 [INFO] <PsychoDesigns> I thought the fire would keep them out
+2011-11-29 12:16:08 [INFO] <PsychoDesigns> we should go to bed
+2011-11-29 12:16:27 [INFO] <PsychoDesigns> you can use Joachims if you dont have one
+2011-11-29 12:16:42 [INFO] <bzgeb> actually I'm gonna head to TAG now
+2011-11-29 12:16:47 [INFO] <bzgeb> so I'll see you in like 20 minutes
+2011-11-29 12:16:59 [INFO] <bzgeb> later
+2011-11-29 12:17:01 [INFO] <PsychoDesigns> oh shit.. yeah I gtg there too
+2011-11-29 12:17:04 [INFO] <bzgeb> oooh
+2011-11-29 12:17:11 [INFO] <bzgeb> I figured you were already there :\
+2011-11-29 12:17:16 [INFO] <PsychoDesigns> lol no
+2011-11-29 12:17:23 [INFO] <bzgeb> oh well
+2011-11-29 12:17:25 [INFO] <bzgeb> see you in a bit then
+2011-11-29 12:17:29 [INFO] <PsychoDesigns> will be there at one...
+2011-11-29 12:17:32 [INFO] <PsychoDesigns> see you
+2011-11-29 12:17:35 [INFO] bzgeb lost connection: disconnect.quitting
+2011-11-29 12:17:47 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-29 18:52:01 [INFO] bzgeb [/132.205.167.129:52823] logged in with entity id 1001768 at (29.5, 64.0, 139.9375)
+2011-11-29 18:52:01 [INFO] boblemoche14 [/132.205.139.95:50601] logged in with entity id 1001843 at (95.30340845102742, 64.0, 170.22758409267465)
+2011-11-29 18:54:52 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-29 18:55:02 [INFO] boblemoche14 [/132.205.139.95:50622] logged in with entity id 1003561 at (96.30000001192093, 64.0, 172.06432271785857)
+2011-11-29 19:11:09 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-29 19:11:26 [INFO] boblemoche14 [/132.205.139.95:50648] logged in with entity id 1029804 at (96.74023631703425, 64.0, 171.36288238748116)
+2011-11-29 19:17:36 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-29 19:17:49 [INFO] boblemoche14 [/132.205.139.95:50676] logged in with entity id 1031900 at (-194.05520354728662, 35.0, 100.6361864502625)
+2011-11-29 19:39:15 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-29 19:39:29 [INFO] boblemoche14 [/132.205.139.95:50929] logged in with entity id 1040461 at (81.625, 64.0, 166.15625)
+2011-11-29 20:29:40 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-11-29 20:29:57 [INFO] boblemoche14 [/132.205.139.95:51000] logged in with entity id 1103255 at (93.04186786422775, 15.0, 105.89590733875048)
+2011-11-29 20:35:28 [INFO] bzgeb lost connection: disconnect.quitting
+2011-11-29 20:39:08 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-11-29 21:01:55 [INFO] PsychoDesigns [/132.205.139.100:57786] logged in with entity id 1117268 at (41.5, 63.0, 205.5)
+2011-11-29 21:06:43 [INFO] PsychoDesigns lost connection: disconnect.genericReason
+2011-11-29 21:11:56 [INFO] PsychoDesigns [/132.205.139.100:58073] logged in with entity id 1124074 at (39.53125, 75.0, 194.6875)
+2011-11-29 21:12:09 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-29 21:13:51 [INFO] PsychoDesigns [/132.205.139.100:58121] logged in with entity id 1124467 at (42.65316724017983, 75.0, 192.56201541064203)
+2011-11-29 21:13:59 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-29 23:52:42 [INFO] boblemoche14 [/65.94.67.243:27595] logged in with entity id 1124938 at (88.30000001192094, 11.0, 120.9053296882042)
+2011-11-30 00:30:04 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-11-30 02:05:53 [INFO] PsychoDesigns [/69.196.189.167:64747] logged in with entity id 1160224 at (38.5, 75.0, 195.5)
+2011-11-30 02:11:29 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-30 10:56:59 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-30 11:26:13 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-11-30 12:16:29 [INFO] boblemoche14 [/65.94.67.243:31915] logged in with entity id 1169609 at (97.30194296394151, 64.0, 169.8643405195109)
+2011-11-30 12:49:51 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-11-30 12:50:30 [INFO] boblemoche14 [/65.94.67.243:31989] logged in with entity id 1206562 at (97.96712148109611, 64.0, 168.1660054881719)
+2011-11-30 12:51:41 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-11-30 12:57:15 [INFO] boblemoche14 [/65.94.67.243:32066] logged in with entity id 1207122 at (98.74195696681346, 64.0, 169.69999998807907)
+2011-11-30 13:08:17 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-11-30 15:38:03 [INFO] PsychoDesigns [/132.205.139.72:55054] logged in with entity id 1221476 at (41.6875, 75.0, 197.59375)
+2011-11-30 15:53:25 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-11-30 18:44:31 [INFO] NatherAylomen [/66.212.248.106:53683] logged in with entity id 1247133 at (87.5, 65.62000000476837, 189.5)
+2011-11-30 18:52:41 [INFO] NatherAylomen lost connection: disconnect.quitting
+2011-12-01 00:06:59 [INFO] boblemoche14 [/65.94.67.243:36419] logged in with entity id 1256237 at (103.53411299283006, 11.0, 71.30000001192093)
+2011-12-01 00:20:13 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-12-01 00:20:23 [INFO] boblemoche14 [/65.94.67.243:36646] logged in with entity id 1270203 at (12.434104797651933, 52.0, 39.670293732539065)
+2011-12-01 00:30:09 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-12-01 00:30:19 [INFO] boblemoche14 [/65.94.67.243:36679] logged in with entity id 1280021 at (96.25066850469122, 64.0, 171.33836998810702)
+2011-12-01 00:40:24 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-12-01 11:32:27 [INFO] boblemoche14 [/65.94.67.243:38940] logged in with entity id 1309483 at (47.4833348507305, 12.0, 68.47594384752621)
+2011-12-01 11:55:46 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-12-01 12:13:51 [INFO] PsychoDesigns [/132.205.139.94:50221] logged in with entity id 1335627 at (40.30000001192093, 75.0, 195.75746788925724)
+2011-12-01 12:42:12 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-12-01 15:48:36 [INFO] PsychoDesigns [/132.205.139.94:54010] logged in with entity id 1361358 at (41.34375, 75.0, 195.1875)
+2011-12-01 16:13:34 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-12-01 19:34:10 [INFO] boblemoche14 [/132.205.139.96:55491] logged in with entity id 1390522 at (97.70916994389626, 64.0, 169.69999998807907)
+2011-12-01 19:39:10 [INFO] PsychoDesigns [/69.196.130.117:56230] logged in with entity id 1397691 at (74.64415967890494, 13.0, 210.46440194423292)
+2011-12-01 19:39:16 [INFO] <boblemoche14> heyyyy
+2011-12-01 19:39:19 [INFO] <PsychoDesigns> hey!
+2011-12-01 19:39:27 [INFO] <boblemoche14> im still in the lab
+2011-12-01 19:39:31 [INFO] <PsychoDesigns> I'm just taking a break
+2011-12-01 19:39:35 [INFO] <boblemoche14> yes yes of course
+2011-12-01 19:40:06 [INFO] <PsychoDesigns> what are you up to?
+2011-12-01 19:40:09 [INFO] <boblemoche14> you can enchant stuff now
+2011-12-01 19:40:15 [INFO] <boblemoche14> i made an enchantment table
+2011-12-01 19:40:20 [INFO] <PsychoDesigns> nice
+2011-12-01 19:40:31 [INFO] <PsychoDesigns> I'm gonna build more portals to hell
+2011-12-01 19:40:41 [INFO] <boblemoche14> haha it doesnt work
+2011-12-01 19:40:48 [INFO] <boblemoche14> theyre all going to go to the same place
+2011-12-01 19:40:50 [INFO] <boblemoche14> but wait
+2011-12-01 19:40:51 [INFO] <PsychoDesigns> so I can teleport far away in the real world
+2011-12-01 19:41:00 [INFO] <boblemoche14> oh ok from hell
+2011-12-01 19:41:02 [INFO] <PsychoDesigns> Ican't build one in hell?
+2011-12-01 19:41:03 [INFO] <boblemoche14> cool
+2011-12-01 19:41:05 [INFO] <boblemoche14> yes
+2011-12-01 19:41:12 [INFO] <boblemoche14> we should make one near the dungeon
+2011-12-01 19:41:17 [INFO] <boblemoche14> did you see the dungeon?
+2011-12-01 19:41:24 [INFO] <PsychoDesigns> no?
+2011-12-01 19:41:26 [INFO] <boblemoche14> in hell?
+2011-12-01 19:41:30 [INFO] <boblemoche14> ill show you
+2011-12-01 19:41:34 [INFO] <boblemoche14> i have enough obsidian
+2011-12-01 19:41:40 [INFO] <PsychoDesigns> me too
+2011-12-01 19:41:44 [INFO] <boblemoche14> cool
+2011-12-01 19:41:48 [INFO] <PsychoDesigns> lets meet at the gate
+2011-12-01 19:41:53 [INFO] <boblemoche14> ok im equipping
+2011-12-01 19:42:11 [INFO] <PsychoDesigns> i'll be there in 2 min.. I'm deep underground
+2011-12-01 19:42:19 [INFO] <PsychoDesigns> in my private mine :P
+2011-12-01 19:42:35 [INFO] <boblemoche14> you found some diamonds?
+2011-12-01 19:42:37 [INFO] <boblemoche14> ooo
+2011-12-01 19:42:50 [INFO] <boblemoche14> brb
+2011-12-01 19:42:53 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-12-01 19:43:01 [INFO] boblemoche14 [/132.205.139.96:55521] logged in with entity id 1402234 at (96.34375, 64.0, 168.9375)
+2011-12-01 19:44:23 [INFO] <boblemoche14> ominous
+2011-12-01 19:44:46 [INFO] <PsychoDesigns> sleep?
+2011-12-01 19:44:52 [INFO] <boblemoche14> nah im at the gate
+2011-12-01 19:44:57 [INFO] <PsychoDesigns> oh ok
+2011-12-01 19:45:44 [INFO] <PsychoDesigns> fucking creepers
+2011-12-01 19:45:50 [INFO] <boblemoche14> haha
+2011-12-01 19:45:57 [INFO] <boblemoche14> did you take the obsidian?
+2011-12-01 19:45:58 [INFO] <PsychoDesigns> ready?
+2011-12-01 19:46:20 [INFO] <boblemoche14> you have it?
+2011-12-01 19:46:23 [INFO] <boblemoche14> the obsidian?
+2011-12-01 19:46:26 [INFO] <PsychoDesigns> yeah
+2011-12-01 19:46:28 [INFO] <PsychoDesigns> 12
+2011-12-01 19:46:32 [INFO] <boblemoche14> cool
+2011-12-01 19:46:43 [INFO] <boblemoche14> argh its going to look ugly lol
+2011-12-01 19:46:52 [INFO] <PsychoDesigns> lol
+2011-12-01 19:46:59 [INFO] <boblemoche14> follow me
+2011-12-01 19:47:30 [INFO] <boblemoche14> oops
+2011-12-01 19:48:18 [INFO] <boblemoche14> whats with all the holes?w
+2011-12-01 19:48:23 [INFO] <PsychoDesigns> ghost
+2011-12-01 19:48:35 [INFO] <PsychoDesigns> run!
+2011-12-01 19:49:01 [INFO] <PsychoDesigns> what are u doing?
+2011-12-01 19:49:03 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-12-01 19:49:32 [INFO] NatherAylomen [/66.212.248.106:57650] logged in with entity id 1404829 at (31.53125, 64.0, 140.25)
+2011-12-01 19:49:41 [INFO] <PsychoDesigns> hey nather!
+2011-12-01 19:49:45 [INFO] boblemoche14 [/132.205.139.96:55612] logged in with entity id 1405102 at (-156.34375, 49.0, 107.5625)
+2011-12-01 19:49:47 [INFO] <NatherAylomen> hey Moh
+2011-12-01 19:49:51 [INFO] <boblemoche14> heyyy
+2011-12-01 19:49:54 [INFO] <NatherAylomen> where are you anyway?
+2011-12-01 19:50:03 [INFO] <boblemoche14> where are you mo?
+2011-12-01 19:50:18 [INFO] <PsychoDesigns> I dug a hole where you left me
+2011-12-01 19:50:30 [INFO] <PsychoDesigns> I'm hiding
+2011-12-01 19:50:30 [INFO] <boblemoche14> sorry
+2011-12-01 19:50:43 [INFO] <boblemoche14> follow me
+2011-12-01 19:51:01 [INFO] <boblemoche14> were in hell
+2011-12-01 19:51:23 [INFO] <PsychoDesigns> lol
+2011-12-01 19:51:32 [INFO] <boblemoche14> look
+2011-12-01 19:51:41 [INFO] <PsychoDesigns> ooo
+2011-12-01 19:51:54 [INFO] <boblemoche14> we made some stairs
+2011-12-01 19:51:59 [INFO] <PsychoDesigns> oh ok
+2011-12-01 19:52:04 [INFO] <boblemoche14> theres some monsters
+2011-12-01 19:52:08 [INFO] <PsychoDesigns> run
+2011-12-01 19:52:18 [INFO] <boblemoche14> called blazes
+2011-12-01 19:52:23 [INFO] <boblemoche14> they give you blaze rods
+2011-12-01 19:52:23 [INFO] <PsychoDesigns> lets call underground
+2011-12-01 19:52:27 [INFO] <boblemoche14> we need those
+2011-12-01 19:52:37 [INFO] <NatherAylomen> are you both in the nether?
+2011-12-01 19:52:40 [INFO] <boblemoche14> yeah
+2011-12-01 19:52:46 [INFO] <boblemoche14> were going to build a new portal
+2011-12-01 19:52:48 [INFO] <boblemoche14> :P
+2011-12-01 19:53:11 [INFO] <boblemoche14> dont destroy the spawners if you see them mo
+2011-12-01 19:53:17 [INFO] <PsychoDesigns> ok
+2011-12-01 19:53:18 [INFO] <boblemoche14> we need them to farm the rods i think
+2011-12-01 19:53:26 [INFO] <NatherAylomen> ah I see haha, well I just have to get to the ptrtal and try to find you
+2011-12-01 19:53:32 [INFO] <PsychoDesigns> what do the monsters do?
+2011-12-01 19:53:38 [INFO] <boblemoche14> throw fire at you
+2011-12-01 19:53:39 [INFO] <boblemoche14> shit
+2011-12-01 19:54:41 [INFO] <PsychoDesigns> got a rod
+2011-12-01 19:54:48 [INFO] <boblemoche14> where do you wanna build the portal?
+2011-12-01 19:55:06 [INFO] <PsychoDesigns> there is a weird monster there
+2011-12-01 19:55:28 [INFO] <boblemoche14> cool
+2011-12-01 19:55:33 [INFO] <NatherAylomen> I cam through the portal, now which way?
+2011-12-01 19:55:34 [INFO] <boblemoche14> ooo
+2011-12-01 19:55:38 [INFO] <boblemoche14> those are valuable
+2011-12-01 19:55:47 [INFO] <boblemoche14> we found hell mushrooms
+2011-12-01 19:55:50 [INFO] <PsychoDesigns> that thin long bridge on your right
+2011-12-01 19:56:08 [INFO] <boblemoche14> lets build the portal here
+2011-12-01 19:56:11 [INFO] <PsychoDesigns> lets get nather... we need a back up
+2011-12-01 19:56:26 [INFO] <boblemoche14> i have to eat
+2011-12-01 19:56:34 [INFO] <PsychoDesigns> need food?
+2011-12-01 19:56:39 [INFO] <boblemoche14> but were supposed to farm those mushrooms
+2011-12-01 19:56:41 [INFO] <boblemoche14> no irl
+2011-12-01 19:56:44 [INFO] <PsychoDesigns> lol
+2011-12-01 19:56:58 [INFO] <boblemoche14> we should build the protal in this room with the mushrooms
+2011-12-01 19:57:03 [INFO] <PsychoDesigns> sure
+2011-12-01 19:57:04 [INFO] <boblemoche14> do you have flint and steel?
+2011-12-01 19:57:08 [INFO] <PsychoDesigns> whats upstairs?
+2011-12-01 19:57:16 [INFO] <PsychoDesigns> oh no i don't
+2011-12-01 19:57:23 [INFO] <boblemoche14> here
+2011-12-01 19:57:33 [INFO] <PsychoDesigns> build it here?
+2011-12-01 19:57:38 [INFO] <boblemoche14> in a safe place
+2011-12-01 19:57:49 [INFO] <boblemoche14> lol
+2011-12-01 19:57:54 [INFO] <boblemoche14> ok im logging out
+2011-12-01 19:57:56 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-12-01 19:58:41 [INFO] NatherAylomen tried command: tp natheraylomen pychoDesigns
+2011-12-01 19:58:58 [INFO] NatherAylomen tried command: tp natheraylomen psychodesigns
+2011-12-01 19:59:47 [INFO] <PsychoDesigns> oh no
+2011-12-01 19:59:56 [INFO] <PsychoDesigns> if you leave them alone they don't attack you
+2011-12-01 19:59:57 [INFO] <NatherAylomen> haha it's ok. I was about to run out of food
+2011-12-01 20:00:19 [INFO] <NatherAylomen> get hungry I mean.
+2011-12-01 20:00:40 [INFO] <PsychoDesigns> oh I fucked up
+2011-12-01 20:00:51 [INFO] <NatherAylomen> That's not good
+2011-12-01 20:00:53 [INFO] <PsychoDesigns> made the portal too small.. and left my diamond axe at home
+2011-12-01 20:01:12 [INFO] <PsychoDesigns> ok I'm running back to the spawn village... meet you there?
+2011-12-01 20:01:34 [INFO] <NatherAylomen> o_0 darn. yeah are you coming back across that tiny death bridge?
+2011-12-01 20:01:44 [INFO] <PsychoDesigns> in a min.. are you on it?
+2011-12-01 20:01:50 [INFO] <NatherAylomen> near by
+2011-12-01 20:01:57 [INFO] <NatherAylomen> now on it
+2011-12-01 20:02:21 [INFO] <PsychoDesigns> aw!
+2011-12-01 20:02:31 [INFO] <NatherAylomen> it's ok, I'm waiting where you said
+2011-12-01 20:02:40 [INFO] <PsychoDesigns> I'm stucjk
+2011-12-01 20:02:52 [INFO] <NatherAylomen> how are you stuck?
+2011-12-01 20:03:01 [INFO] <PsychoDesigns> trapped
+2011-12-01 20:03:06 [INFO] <PsychoDesigns> too many enemys in the way
+2011-12-01 20:03:19 [INFO] <NatherAylomen> could I be of any use?... well I can try to find you
+2011-12-01 20:04:22 [INFO] <PsychoDesigns> omw back
+2011-12-01 20:04:40 [INFO] <NatherAylomen> what?
+2011-12-01 20:04:47 [INFO] <PsychoDesigns> on my way
+2011-12-01 20:04:52 [INFO] <NatherAylomen> ah I see
+2011-12-01 20:05:25 [INFO] <PsychoDesigns> hey
+2011-12-01 20:05:37 [INFO] <PsychoDesigns> do you a diamond axe?
+2011-12-01 20:05:52 [INFO] <NatherAylomen> do I have? if yes. NO I don
+2011-12-01 20:07:34 [INFO] <NatherAylomen> thanks
+2011-12-01 20:08:03 [INFO] <PsychoDesigns> welcome to my place
+2011-12-01 20:08:22 [INFO] <NatherAylomen> yes. I went down those stairs.
+2011-12-01 20:08:27 [INFO] <NatherAylomen> it took forever to get back up
+2011-12-01 20:08:33 [INFO] <PsychoDesigns> yeah its a maze
+2011-12-01 20:09:36 [INFO] <NatherAylomen> can I chop down any tree?
+2011-12-01 20:09:51 [INFO] <PsychoDesigns> yeah
+2011-12-01 20:09:58 [INFO] <PsychoDesigns> you can build a house
+2011-12-01 20:11:35 [INFO] <PsychoDesigns> lol I dont recommend building it there
+2011-12-01 20:11:47 [INFO] <PsychoDesigns> full of creepers... that cliff is there for a reason
+2011-12-01 20:11:52 [INFO] <NatherAylomen> no I'm not. just getting a tiny bit of stone
+2011-12-01 20:12:01 [INFO] <PsychoDesigns> oh ok
+2011-12-01 20:12:05 [INFO] oddx [/69.165.201.212:59747] logged in with entity id 1425488 at (86.5, 65.62000000476837, 201.5)
+2011-12-01 20:12:21 [INFO] boblemoche14 [/132.205.139.96:55620] logged in with entity id 1426177 at (-369.4793540453827, 68.0, 122.30000001192093)
+2011-12-01 20:12:24 [INFO] <boblemoche14> hey
+2011-12-01 20:12:33 [INFO] <boblemoche14> someone else is going to log in soon!
+2011-12-01 20:12:37 [INFO] <PsychoDesigns> hey
+2011-12-01 20:12:38 [INFO] <boblemoche14> whaaat
+2011-12-01 20:12:43 [INFO] <boblemoche14> you messed up the portal!!!
+2011-12-01 20:12:48 [INFO] <boblemoche14> >:(
+2011-12-01 20:12:49 [INFO] <PsychoDesigns> yeah :(
+2011-12-01 20:13:00 [INFO] <PsychoDesigns> I went back home to get my diamond axe
+2011-12-01 20:13:09 [INFO] <PsychoDesigns> sorry.. I'm on my way back
+2011-12-01 20:13:14 [INFO] <PsychoDesigns> who is oddx?
+2011-12-01 20:13:23 [INFO] <boblemoche14> haha
+2011-12-01 20:13:25 [INFO] <boblemoche14> not sure
+2011-12-01 20:13:40 [INFO] <PsychoDesigns> hey oddx... press T to chat
+2011-12-01 20:13:44 [INFO] <oddx> finally
+2011-12-01 20:13:50 [INFO] <PsychoDesigns> Saleem?
+2011-12-01 20:13:51 [INFO] <oddx> i just googled it at the same time
+2011-12-01 20:13:57 [INFO] <oddx> who is this saleem you speak of
+2011-12-01 20:14:01 [INFO] <oddx> I AM DABBOUS
+2011-12-01 20:14:08 [INFO] <PsychoDesigns> lol.. hey Saleem... have a chicken
+2011-12-01 20:14:22 [INFO] <boblemoche14> cooooool
+2011-12-01 20:14:27 [INFO] <oddx> i'm actually going to log off now, i just wanted to pop in and check things out :p
+2011-12-01 20:14:40 [INFO] <PsychoDesigns> lol ok.. give me my chicken back then
+2011-12-01 20:14:45 [INFO] <PsychoDesigns> Q
+2011-12-01 20:14:48 [INFO] <oddx> ok
+2011-12-01 20:15:05 [INFO] <PsychoDesigns> joachim.. you're still in hell?
+2011-12-01 20:15:21 [INFO] <oddx> oh shit this game has fall damage
+2011-12-01 20:15:55 [INFO] <oddx> and regen health? IT'S JUST LIKE HALO
+2011-12-01 20:16:15 [INFO] <boblemoche14> im still in hell
+2011-12-01 20:16:21 [INFO] <PsychoDesigns> on my way
+2011-12-01 20:16:25 [INFO] <PsychoDesigns> nather ... wanna come?
+2011-12-01 20:16:25 [INFO] <NatherAylomen> who's house is the Nether brick one?
+2011-12-01 20:16:28 [INFO] <boblemoche14> near your weird ass portal
+2011-12-01 20:16:31 [INFO] <boblemoche14> its bronsons
+2011-12-01 20:16:58 [INFO] <NatherAylomen> after my house is finished
+2011-12-01 20:17:00 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-12-01 20:17:02 [INFO] <PsychoDesigns> ok
+2011-12-01 20:17:11 [INFO] boblemoche14 [/132.205.139.96:55634] logged in with entity id 1437113 at (-363.02947932827885, 68.0, 123.4574600517225)
+2011-12-01 20:17:39 [INFO] <PsychoDesigns> we need voip to play this game
+2011-12-01 20:17:42 [INFO] <oddx> okay i'm going to go make dinner and stuff, this was fun, let's do it again
+2011-12-01 20:17:54 [INFO] <oddx> +1 on voip
+2011-12-01 20:18:00 [INFO] oddx lost connection: disconnect.quitting
+2011-12-01 20:19:47 [INFO] <PsychoDesigns> lol the tree is growing
+2011-12-01 20:19:51 [INFO] <boblemoche14> coool
+2011-12-01 20:19:56 [INFO] <PsychoDesigns> and its on fire
+2011-12-01 20:20:24 [INFO] fatso784 [/132.205.164.102:50882] logged in with entity id 1442677 at (100.5, 69.62000000476837, 200.5)
+2011-12-01 20:20:31 [INFO] <boblemoche14> heyyyyyy
+2011-12-01 20:20:39 [INFO] <boblemoche14> everyone is here
+2011-12-01 20:20:57 [INFO] <PsychoDesigns> I'm at the hell mushrooms
+2011-12-01 20:21:07 [INFO] <boblemoche14> they dont seem to be ready yet
+2011-12-01 20:21:13 [INFO] <boblemoche14> its what you use for mushrooms
+2011-12-01 20:21:46 [INFO] <boblemoche14> haha
+2011-12-01 20:22:00 [INFO] <boblemoche14> i mean for potions
+2011-12-01 20:22:31 [INFO] <PsychoDesigns> ready?
+2011-12-01 20:22:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2011-12-01 20:22:43 [INFO] <boblemoche14> ok lets go
+2011-12-01 20:22:51 [INFO] <boblemoche14> but i need to do a tutorial for fatso
+2011-12-01 20:22:53 [INFO] <PsychoDesigns> oh shit
+2011-12-01 20:23:05 [INFO] <boblemoche14> whaaaaat
+2011-12-01 20:24:47 [INFO] <PsychoDesigns> what do we do?
+2011-12-01 20:26:32 [INFO] <boblemoche14> im helping out fatso
+2011-12-01 20:26:39 [INFO] <boblemoche14> we could bring a boat I guess?
+2011-12-01 20:27:57 [INFO] <PsychoDesigns> hmm... I dont see anything close?
+2011-12-01 20:28:16 [INFO] <PsychoDesigns> oh there is an island behind
+2011-12-01 20:30:25 [INFO] <PsychoDesigns> I gtg.. dinner time
+2011-12-01 20:30:34 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-12-01 20:53:49 [INFO] fatso784 lost connection: disconnect.genericReason
+2011-12-01 20:58:07 [INFO] fatso784 [/132.205.164.102:49181] logged in with entity id 1496695 at (-2954.09375, 64.0, 773.0625)
+2011-12-01 21:05:27 [INFO] NatherAylomen lost connection: disconnect.quitting
+2011-12-01 21:10:22 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-12-01 21:58:16 [INFO] boblemoche14 [/65.94.67.243:39382] logged in with entity id 1524237 at (-2940.65625, 70.0, 994.25)
+2011-12-01 21:58:23 [INFO] <boblemoche14> heyyyy
+2011-12-01 21:58:27 [INFO] <boblemoche14> i forgot to tell you
+2011-12-01 21:58:30 [INFO] <fatso784> yeah
+2011-12-01 21:58:44 [INFO] <boblemoche14> your bed needs to be in a closed off and well lit space
+2011-12-01 21:58:56 [INFO] <fatso784> okay
+2011-12-01 21:58:56 [INFO] <boblemoche14> otherwise monsters will kill you in your sleep
+2011-12-01 21:59:05 [INFO] <fatso784> okay
+2011-12-01 21:59:12 [INFO] <boblemoche14> hope you didnt find out the wrong way :P
+2011-12-01 21:59:14 [INFO] <fatso784> how do you build a door
+2011-12-01 21:59:22 [INFO] <boblemoche14> 6 wood planks
+2011-12-01 21:59:37 [INFO] <boblemoche14> in a vertical 2x3 rectangle
+2011-12-01 22:00:07 [INFO] <boblemoche14> do you have a bed right now?
+2011-12-01 22:00:10 [INFO] <fatso784> okay thanks
+2011-12-01 22:00:12 [INFO] <boblemoche14> are you still on the island?
+2011-12-01 22:00:19 [INFO] <fatso784> no i was out looknig for sheep but i went out too late
+2011-12-01 22:00:23 [INFO] <fatso784> yeah
+2011-12-01 22:00:56 [INFO] <boblemoche14> where are you right now?
+2011-12-01 22:00:59 [INFO] <boblemoche14> in your house?
+2011-12-01 22:01:08 [INFO] <boblemoche14> if you log out I will sleep to make it day
+2011-12-01 22:01:29 [INFO] <fatso784> yeah im building a labrynthian tunnel system leading underground
+2011-12-01 22:01:33 [INFO] <fatso784> no its okay
+2011-12-01 22:01:41 [INFO] <fatso784> im safe down here
+2011-12-01 22:02:42 [INFO] <fatso784> what are you doing?
+2011-12-01 22:03:05 [INFO] <boblemoche14> not sure im still on the platform
+2011-12-01 22:03:13 [INFO] <boblemoche14> there was some iron in the quarry
+2011-12-01 22:03:25 [INFO] <fatso784> yeah
+2011-12-01 22:03:26 [INFO] <boblemoche14> you should get some after you eat and make a bed
+2011-12-01 22:03:49 [INFO] <fatso784> yeah i just need to find those sheep :)
+2011-12-01 22:04:29 [INFO] <boblemoche14> I think I'll go back and take some materials for exit portal here
+2011-12-01 22:04:39 [INFO] <boblemoche14> also make potions
+2011-12-01 22:14:21 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-12-01 22:15:18 [INFO] boblemoche14 [/65.94.67.243:39451] logged in with entity id 1534069 at (-342.78125, 69.0, 120.40625)
+2011-12-01 22:18:36 [INFO] <fatso784> i got a bed! wooooo
+2011-12-01 22:18:42 [INFO] <boblemoche14> cool
+2011-12-01 22:18:47 [INFO] <boblemoche14> want me to log out?
+2011-12-01 22:18:49 [INFO] <boblemoche14> is it night?
+2011-12-01 22:18:53 [INFO] <boblemoche14> im in hell I cant tell
+2011-12-01 22:18:58 [INFO] <fatso784> nah dont worry its not night yet
+2011-12-01 22:24:30 [INFO] <boblemoche14> by the way
+2011-12-01 22:24:34 [INFO] <boblemoche14> dont kill all the animals
+2011-12-01 22:24:39 [INFO] <boblemoche14> they dont respawn
+2011-12-01 22:24:45 [INFO] <fatso784> o
+2011-12-01 22:24:47 [INFO] <fatso784> okay
+2011-12-01 22:24:54 [INFO] <boblemoche14> you need a breeding pair to start a farm
+2011-12-01 22:25:22 [INFO] <fatso784> so im gonna leave now
+2011-12-01 22:25:25 [INFO] <fatso784> if i quit
+2011-12-01 22:25:32 [INFO] <fatso784> all the stuff i did stays here?
+2011-12-01 22:25:38 [INFO] <boblemoche14> yeah
+2011-12-01 22:25:48 [INFO] <boblemoche14> and youll respawn in the same spot with your stuff
+2011-12-01 22:25:49 [INFO] <fatso784> and i respawn next to my bed, where i am now?
+2011-12-01 22:25:54 [INFO] <fatso784> okay
+2011-12-01 22:26:00 [INFO] <boblemoche14> yeah
+2011-12-01 22:26:01 [INFO] <boblemoche14> but
+2011-12-01 22:26:03 [INFO] <fatso784> sweet deal
+2011-12-01 22:26:06 [INFO] <boblemoche14> you should sleep in it
+2011-12-01 22:26:08 [INFO] <boblemoche14> asap
+2011-12-01 22:26:17 [INFO] <boblemoche14> to set your respawn point in case you die
+2011-12-01 22:26:29 [INFO] <fatso784> i think i just did
+2011-12-01 22:26:40 [INFO] <boblemoche14> nah it only counts if its night and everyone sleeps
+2011-12-01 22:26:42 [INFO] <fatso784> it went blue but lasted on 2 seconds
+2011-12-01 22:26:42 [INFO] <boblemoche14> is it night?
+2011-12-01 22:26:57 [INFO] <fatso784> it JUST went to day, but i think i slept before it went to night
+2011-12-01 22:27:06 [INFO] <boblemoche14> hmmmm
+2011-12-01 22:27:10 [INFO] <boblemoche14> not sure
+2011-12-01 22:27:13 [INFO] <fatso784> well
+2011-12-01 22:27:17 [INFO] <boblemoche14> you should try again during the night
+2011-12-01 22:27:20 [INFO] <boblemoche14> next time
+2011-12-01 22:27:22 [INFO] <fatso784> ill be on later to do that yeah
+2011-12-01 22:27:30 [INFO] <fatso784> deuces
+2011-12-01 22:27:41 [INFO] fatso784 lost connection: disconnect.quitting
+2011-12-01 22:31:04 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-12-01 22:33:14 [INFO] boblemoche14 [/65.94.67.243:39559] logged in with entity id 1540696 at (-551.71875, 65.0, 64.6875)
+2011-12-01 22:50:17 [INFO] PsychoDesigns [/69.196.130.117:59531] logged in with entity id 1551290 at (-2936.3186812182175, 70.0, 992.3946319257532)
+2011-12-01 22:50:24 [INFO] <boblemoche14> haha whatsuuup
+2011-12-01 22:50:30 [INFO] <PsychoDesigns> taking a break
+2011-12-01 22:50:37 [INFO] <boblemoche14> of coursssee
+2011-12-01 22:50:38 [INFO] <boblemoche14> me too
+2011-12-01 22:50:44 [INFO] <PsychoDesigns> I see you put up a bed
+2011-12-01 22:50:49 [INFO] <PsychoDesigns> are you still at tag?
+2011-12-01 22:50:56 [INFO] <boblemoche14> nah im at homne
+2011-12-01 22:51:00 [INFO] <PsychoDesigns> lol ok
+2011-12-01 22:51:03 [INFO] <boblemoche14> crap i forgot my bed there haha
+2011-12-01 22:51:09 [INFO] <PsychoDesigns> what are you up to?
+2011-12-01 22:51:11 [INFO] <boblemoche14> im going to bring a bucket of water to go down
+2011-12-01 22:51:21 [INFO] <PsychoDesigns> oh I have one
+2011-12-01 22:51:23 [INFO] <boblemoche14> also i made a hell mushroom farm near the home portal
+2011-12-01 22:51:27 [INFO] <boblemoche14> cool
+2011-12-01 22:51:37 [INFO] <boblemoche14> you can use that to go down
+2011-12-01 22:51:39 [INFO] <boblemoche14> and build stairs
+2011-12-01 22:51:50 [INFO] <PsychoDesigns> down into the ocean?
+2011-12-01 22:52:02 [INFO] <boblemoche14> no?
+2011-12-01 22:52:09 [INFO] <boblemoche14> we can also make a space castle thats cool
+2011-12-01 22:52:15 [INFO] <PsychoDesigns> oh I already build a column I can use that to make stairs
+2011-12-01 22:52:21 [INFO] <boblemoche14> coolw
+2011-12-01 22:52:23 [INFO] <PsychoDesigns> there is an island in the distance
+2011-12-01 22:52:30 [INFO] <boblemoche14> yes
+2011-12-01 22:52:34 [INFO] <boblemoche14> fatso went there
+2011-12-01 22:52:43 [INFO] <PsychoDesigns> anything cool?
+2011-12-01 22:52:44 [INFO] <boblemoche14> he is building up from scratch like a minecraft noob
+2011-12-01 22:52:49 [INFO] <boblemoche14> on his desert island
+2011-12-01 22:52:55 [INFO] <PsychoDesigns> lol
+2011-12-01 22:52:59 [INFO] <boblemoche14> not really anything interesting
+2011-12-01 22:53:15 [INFO] <PsychoDesigns> should we distroy the portal and build it else where?
+2011-12-01 22:53:25 [INFO] <boblemoche14> which one?
+2011-12-01 22:53:29 [INFO] <boblemoche14> the portal to the see?
+2011-12-01 22:53:30 [INFO] <PsychoDesigns> the one I built
+2011-12-01 22:53:31 [INFO] <boblemoche14> sea
+2011-12-01 22:53:41 [INFO] <boblemoche14> then he wont be able to go back hahaha
+2011-12-01 22:53:54 [INFO] <PsychoDesigns> lol...
+2011-12-01 22:54:04 [INFO] <boblemoche14> we should explore with a boat
+2011-12-01 22:54:08 [INFO] <PsychoDesigns> oh yeah.. even if he dies he'll spawn in his bed
+2011-12-01 22:54:10 [INFO] <boblemoche14> maybe theres other islands
+2011-12-01 22:54:24 [INFO] <boblemoche14> we can make a map
+2011-12-01 22:54:46 [INFO] <boblemoche14> if you want we can build another one
+2011-12-01 22:54:55 [INFO] <boblemoche14> i have enough obsidian
+2011-12-01 22:54:55 [INFO] <PsychoDesigns> I see nothing else in the distance we'ld have to go far
+2011-12-01 22:55:07 [INFO] <PsychoDesigns> do you think the others would mind?
+2011-12-01 22:55:16 [INFO] <boblemoche14> destroying the portal?
+2011-12-01 22:55:20 [INFO] <boblemoche14> we dont have to destroy it
+2011-12-01 22:55:26 [INFO] <PsychoDesigns> building another map
+2011-12-01 22:55:26 [INFO] <boblemoche14> i have enough obsidian to build another
+2011-12-01 22:55:40 [INFO] <PsychoDesigns> ohhh.. I thought you meant a new minecraft map
+2011-12-01 22:55:44 [INFO] <boblemoche14> oh no i meant a paper map in minecraft
+2011-12-01 22:55:52 [INFO] <boblemoche14> with paper+compass you can make a map
+2011-12-01 22:55:54 [INFO] <PsychoDesigns> oh sure
+2011-12-01 22:56:07 [INFO] <boblemoche14> theres one in my base of the area around the home base if you want to take a look
+2011-12-01 22:56:24 [INFO] <PsychoDesigns> I'm at the sea portal.. its a long way back
+2011-12-01 22:56:51 [INFO] <boblemoche14> youre walking back from the sea portal?
+2011-12-01 22:57:03 [INFO] <PsychoDesigns> we need to build a safe tunnel between both portals in hell
+2011-12-01 22:57:06 [INFO] <boblemoche14> thats madness
+2011-12-01 22:57:09 [INFO] <boblemoche14> oh
+2011-12-01 22:57:13 [INFO] <boblemoche14> yes good idea
+2011-12-01 22:57:19 [INFO] <boblemoche14> or at least make the bridge stone
+2011-12-01 22:57:36 [INFO] <PsychoDesigns> but I'll need to drop all my valuable stuff and only have building blocks
+2011-12-01 22:57:45 [INFO] <boblemoche14> theres a new house here
+2011-12-01 22:57:54 [INFO] <PsychoDesigns> where?
+2011-12-01 22:58:28 [INFO] <PsychoDesigns> where are you now?
+2011-12-01 22:58:34 [INFO] <boblemoche14> home base
+2011-12-01 22:58:39 [INFO] <PsychoDesigns> ok I'm coming over
+2011-12-01 22:58:51 [INFO] <boblemoche14> cool
+2011-12-01 23:02:14 [INFO] <PsychoDesigns> bed time?
+2011-12-01 23:02:20 [INFO] <boblemoche14> tsure
+2011-12-01 23:02:22 [INFO] <boblemoche14> sure
+2011-12-01 23:02:45 [INFO] <boblemoche14> you should spend your XP
+2011-12-01 23:02:50 [INFO] <boblemoche14> on some enchantments
+2011-12-01 23:02:59 [INFO] <PsychoDesigns> wholy shit there is a whole in my house... again
+2011-12-01 23:03:14 [INFO] <boblemoche14> creepers?
+2011-12-01 23:03:23 [INFO] <PsychoDesigns> yeah... and not the first time...
+2011-12-01 23:03:36 [INFO] <PsychoDesigns> whoa.. who's house is that on top of the mountain?
+2011-12-01 23:04:05 [INFO] <boblemoche14> no idea haha
+2011-12-01 23:04:13 [INFO] <PsychoDesigns> nather's probably
+2011-12-01 23:04:16 [INFO] <boblemoche14> yes
+2011-12-01 23:04:54 [INFO] <PsychoDesigns> ok I gotta research and build an enchantment table
+2011-12-01 23:05:01 [INFO] <boblemoche14> i have one in my base
+2011-12-01 23:05:02 [INFO] <PsychoDesigns> need obsidian
+2011-12-01 23:05:05 [INFO] <boblemoche14> you can use it
+2011-12-01 23:05:10 [INFO] <PsychoDesigns> oh ok
+2011-12-01 23:08:38 [INFO] <PsychoDesigns> ohhh you enchant tools
+2011-12-01 23:08:41 [INFO] <boblemoche14> yeah
+2011-12-01 23:08:46 [INFO] <boblemoche14> be careful use good ones
+2011-12-01 23:08:49 [INFO] <boblemoche14> diamond or iron
+2011-12-01 23:08:55 [INFO] <boblemoche14> dont waste your xp on crap stuff
+2011-12-01 23:09:04 [INFO] <boblemoche14> look i got a cool sword
+2011-12-01 23:09:10 [INFO] <PsychoDesigns> yeah.. I just spent it on a crappy almost broken stone shovle
+2011-12-01 23:09:16 [INFO] <boblemoche14> haha
+2011-12-01 23:09:29 [INFO] <PsychoDesigns> does my pick axe glow purple?
+2011-12-01 23:09:38 [INFO] <boblemoche14> i cant see it
+2011-12-01 23:09:48 [INFO] <PsychoDesigns> yeah I see your sword normally
+2011-12-01 23:11:13 [INFO] <PsychoDesigns> so what do you wanna do? construct a safe path in hell?
+2011-12-01 23:11:22 [INFO] <boblemoche14> yeah we can do that
+2011-12-01 23:11:31 [INFO] <boblemoche14> ill drop my valuable stuff and get some stone
+2011-12-01 23:11:36 [INFO] <PsychoDesigns> ok I'm dropping stuff too
+2011-12-01 23:14:00 [INFO] <boblemoche14> ready?
+2011-12-01 23:14:05 [INFO] <PsychoDesigns> ok I'm ready
+2011-12-01 23:14:13 [INFO] <PsychoDesigns> bed first?
+2011-12-01 23:14:21 [INFO] <boblemoche14> sure
+2011-12-01 23:15:43 [INFO] <boblemoche14> hmm its weird the hell mushrooms only grow if someone is in hell
+2011-12-01 23:16:10 [INFO] <PsychoDesigns> yeah I guess
+2011-12-01 23:16:21 [INFO] <boblemoche14> but you cant plant them in the overworld
+2011-12-01 23:16:23 [INFO] <boblemoche14> that sucks
+2011-12-01 23:16:33 [INFO] <boblemoche14> where are you im in the hell fort
+2011-12-01 23:16:45 [INFO] <PsychoDesigns> bridge
+2011-12-01 23:17:21 [INFO] <boblemoche14> shouldnt we use stone?
+2011-12-01 23:17:29 [INFO] <PsychoDesigns> does it matter?
+2011-12-01 23:17:35 [INFO] <boblemoche14> ghasts cant break stone
+2011-12-01 23:17:47 [INFO] <PsychoDesigns> aww the ghast is swimming in lava
+2011-12-01 23:17:55 [INFO] <boblemoche14> haha
+2011-12-01 23:17:57 [INFO] <PsychoDesigns> sure
+2011-12-01 23:20:28 [INFO] <boblemoche14> hmm the floor is the most important
+2011-12-01 23:20:36 [INFO] <PsychoDesigns> yeah
+2011-12-01 23:20:40 [INFO] <PsychoDesigns> I have an idea
+2011-12-01 23:20:47 [INFO] <boblemoche14> shit
+2011-12-01 23:20:48 [INFO] <PsychoDesigns> hey!
+2011-12-01 23:20:49 [INFO] <boblemoche14> sorry
+2011-12-01 23:21:11 [INFO] <PsychoDesigns> ok go infront of me
+2011-12-01 23:21:22 [INFO] <PsychoDesigns> you digg the floor
+2011-12-01 23:21:26 [INFO] <boblemoche14> haha ok
+2011-12-01 23:21:27 [INFO] <PsychoDesigns> i'll place rocks
+2011-12-01 23:21:44 [INFO] <PsychoDesigns> go go go
+2011-12-01 23:22:53 [INFO] <PsychoDesigns> aw shit
+2011-12-01 23:22:54 [INFO] <boblemoche14> shit
+2011-12-01 23:22:57 [INFO] <boblemoche14> haha
+2011-12-01 23:23:24 [INFO] <boblemoche14> its cool I have more stone
+2011-12-01 23:25:12 [INFO] <boblemoche14> awesome
+2011-12-01 23:25:13 [INFO] <PsychoDesigns> no need to do this
+2011-12-01 23:25:16 [INFO] <boblemoche14> oh ok
+2011-12-01 23:25:26 [INFO] <PsychoDesigns> see the other side
+2011-12-01 23:25:33 [INFO] <boblemoche14> yeah
+2011-12-01 23:25:37 [INFO] <boblemoche14> shit
+2011-12-01 23:25:37 [INFO] <PsychoDesigns> it doesnt have a row at the buttom
+2011-12-01 23:25:44 [INFO] <boblemoche14> you have a pickaxe?
+2011-12-01 23:25:47 [INFO] <boblemoche14> spare
+2011-12-01 23:25:49 [INFO] <PsychoDesigns> yeah
+2011-12-01 23:25:56 [INFO] <PsychoDesigns> actually no..
+2011-12-01 23:26:07 [INFO] <PsychoDesigns> but we can build one at the fortress
+2011-12-01 23:26:19 [INFO] <boblemoche14> its cool
+2011-12-01 23:26:35 [INFO] <boblemoche14> do we need a roof?
+2011-12-01 23:26:45 [INFO] <PsychoDesigns> maybe? I dont know
+2011-12-01 23:27:45 [INFO] <PsychoDesigns> hold shift to not fall
+2011-12-01 23:27:53 [INFO] <boblemoche14> yeah I know
+2011-12-01 23:27:58 [INFO] <boblemoche14> dunno what happened last time
+2011-12-01 23:28:13 [INFO] <PsychoDesigns> maybe you axed the block you were standing on
+2011-12-01 23:29:15 [INFO] <PsychoDesigns> running out of stone.. using the last 64
+2011-12-01 23:29:20 [INFO] fatso784 [/65.92.27.9:49405] logged in with entity id 1593021 at (-3040.375, 50.0, 903.6875)
+2011-12-01 23:29:35 [INFO] <boblemoche14> hello
+2011-12-01 23:29:38 [INFO] <boblemoche14> woah I fell
+2011-12-01 23:29:43 [INFO] <boblemoche14> good thing i wasnt above lava
+2011-12-01 23:30:31 [INFO] <fatso784> hello
+2011-12-01 23:30:42 [INFO] <boblemoche14> giant lava cuuuube
+2011-12-01 23:30:48 [INFO] lh00000000 [/64.121.165.73:56183] logged in with entity id 1593960 at (-79.53600906601918, 63.0, 205.09207464264873)
+2011-12-01 23:30:52 [INFO] <fatso784> where are you guys? did you travel to the island yet?
+2011-12-01 23:30:52 [INFO] <boblemoche14> fuck
+2011-12-01 23:31:08 [INFO] <lh00000000> Hi everyone!
+2011-12-01 23:31:20 [INFO] <PsychoDesigns> hey
+2011-12-01 23:31:29 [INFO] boblemoche14 [/65.94.67.243:39623] logged in with entity id 1594919 at (-141.0625, 42.625, 86.09375)
+2011-12-01 23:31:38 [INFO] <PsychoDesigns> who is this?
+2011-12-01 23:31:40 [INFO] <boblemoche14> welll
+2011-12-01 23:31:48 [INFO] <boblemoche14> you should get your stuff back mo
+2011-12-01 23:31:52 [INFO] <PsychoDesigns> omw
+2011-12-01 23:32:25 [INFO] <fatso784> okay guys
+2011-12-01 23:32:40 [INFO] <fatso784> lh00000000 is a friend of mine
+2011-12-01 23:32:50 [INFO] <PsychoDesigns> hey Ian's friend
+2011-12-01 23:32:50 [INFO] <boblemoche14> cool
+2011-12-01 23:32:52 [INFO] <boblemoche14> hello
+2011-12-01 23:33:00 [INFO] <lh00000000> Hey
+2011-12-01 23:33:11 [INFO] <PsychoDesigns> we are in hell securing the bridge to the dungeon
+2011-12-01 23:33:19 [INFO] <PsychoDesigns> I got my stuff back
+2011-12-01 23:33:22 [INFO] <boblemoche14> cool
+2011-12-01 23:33:28 [INFO] <boblemoche14> did you kill the magma cube?
+2011-12-01 23:33:35 [INFO] <PsychoDesigns> it wasn't there
+2011-12-01 23:33:58 [INFO] <PsychoDesigns> fuck now the bridge is full of pigmen
+2011-12-01 23:34:05 [INFO] <boblemoche14> haha
+2011-12-01 23:34:14 [INFO] <boblemoche14> you should be able to squeeze through
+2011-12-01 23:34:27 [INFO] <PsychoDesigns> and yes.. we need a roof
+2011-12-01 23:34:29 [INFO] <fatso784> ah so luming i'm at the far side of the world you get to when you take the second portal in hell
+2011-12-01 23:34:33 [INFO] <PsychoDesigns> the ghast is kicking my ass
+2011-12-01 23:35:01 [INFO] <boblemoche14> luming do you want me to show you how to get to ian's island?
+2011-12-01 23:35:10 [INFO] <boblemoche14> t to talk btw
+2011-12-01 23:35:23 [INFO] <lh00000000> yeah haha I thought you guys were kidding about a place called hell
+2011-12-01 23:35:33 [INFO] <boblemoche14> follow me
+2011-12-01 23:36:03 [INFO] <boblemoche14> stand in the portal for a few secondws
+2011-12-01 23:36:18 [INFO] <lh00000000> ah thanks
+2011-12-01 23:36:33 [INFO] <boblemoche14> ok follow me and run if there are monsters
+2011-12-01 23:37:03 [INFO] <lh00000000> ah sorry I feel
+2011-12-01 23:37:05 [INFO] <lh00000000> fell*
+2011-12-01 23:37:10 [INFO] <boblemoche14> im here
+2011-12-01 23:37:33 [INFO] <boblemoche14> where did you go
+2011-12-01 23:37:37 [INFO] <boblemoche14> over here
+2011-12-01 23:38:08 [INFO] <PsychoDesigns> I'll join you guys
+2011-12-01 23:38:10 [INFO] <boblemoche14> dont provoke the pigmen
+2011-12-01 23:38:58 [INFO] <PsychoDesigns> keep runnung dont stop
+2011-12-01 23:40:44 [INFO] <boblemoche14> gimme my bed
+2011-12-01 23:40:52 [INFO] <PsychoDesigns> lol its mine now!
+2011-12-01 23:40:55 [INFO] <boblemoche14> watch out dont fall
+2011-12-01 23:41:04 [INFO] <lh00000000> i'll try haha
+2011-12-01 23:41:07 [INFO] <boblemoche14> see this island over there
+2011-12-01 23:41:13 [INFO] <boblemoche14> thats ian island
+2011-12-01 23:41:21 [INFO] <fatso784> for now haha
+2011-12-01 23:41:27 [INFO] <boblemoche14> if you wanna get there
+2011-12-01 23:41:27 [INFO] <lh00000000> barely
+2011-12-01 23:41:35 [INFO] <boblemoche14> space to swim
+2011-12-01 23:41:35 [INFO] <PsychoDesigns> good luck... to go back through hell.. just follow the cobble stones
+2011-12-01 23:41:53 [INFO] <boblemoche14> ian dont forget to sleep to set your spawn point
+2011-12-01 23:41:59 [INFO] <lh00000000> damn ian, why do you have to go hermit in minecraft too?
+2011-12-01 23:42:04 [INFO] <lh00000000> thanks boble
+2011-12-01 23:42:22 [INFO] <boblemoche14> hehe
+2011-12-01 23:42:27 [INFO] <fatso784> yeah i did
+2011-12-01 23:42:43 [INFO] <PsychoDesigns> lol
+2011-12-01 23:42:43 [INFO] <boblemoche14> fuck youuuu
+2011-12-01 23:42:46 [INFO] <boblemoche14> bblblblbb
+2011-12-01 23:43:07 [INFO] <boblemoche14> :(
+2011-12-01 23:43:14 [INFO] <PsychoDesigns> aww.. ok here you go
+2011-12-01 23:43:21 [INFO] <fatso784> im in the underground caverns building a tunnel down
+2011-12-01 23:43:31 [INFO] <boblemoche14> what the hell ill just visit them
+2011-12-01 23:43:34 [INFO] <lh00000000> do you have any food? haha
+2011-12-01 23:43:37 [INFO] <PsychoDesigns> sure
+2011-12-01 23:43:48 [INFO] <boblemoche14> dont give them anything
+2011-12-01 23:43:49 [INFO] <fatso784> yeah i think
+2011-12-01 23:43:50 [INFO] <boblemoche14> remember
+2011-12-01 23:43:58 [INFO] <boblemoche14> the prime directive
+2011-12-01 23:44:19 [INFO] <boblemoche14> w
+2011-12-01 23:44:31 [INFO] <fatso784> hahaha
+2011-12-01 23:44:51 [INFO] <lh00000000> where's your crafting table?
+2011-12-01 23:44:55 [INFO] <lh00000000> whoa creepy haha
+2011-12-01 23:44:56 [INFO] <PsychoDesigns> we have a pig farm and a chicken dungeon in our village... just saying
+2011-12-01 23:45:33 [INFO] <lh00000000> I was afraid to kill
+2011-12-01 23:45:44 [INFO] <PsychoDesigns> whoa
+2011-12-01 23:45:54 [INFO] <fatso784> whoa
+2011-12-01 23:45:57 [INFO] <boblemoche14> awesome house
+2011-12-01 23:46:00 [INFO] <PsychoDesigns> nice cave
+2011-12-01 23:46:07 [INFO] <boblemoche14> that coal is tickling me
+2011-12-01 23:46:09 [INFO] <fatso784> ^__^
+2011-12-01 23:46:40 [INFO] <boblemoche14> woah
+2011-12-01 23:46:45 [INFO] <fatso784> i only built this far so far
+2011-12-01 23:46:52 [INFO] <boblemoche14> awesome mining complex
+2011-12-01 23:46:54 [INFO] <fatso784> it needs to go down
+2011-12-01 23:47:05 [INFO] <boblemoche14> do you know how to make a hoe?
+2011-12-01 23:47:12 [INFO] <boblemoche14> you need one to farm wheat
+2011-12-01 23:47:19 [INFO] <boblemoche14> then you give wheat to animals for them to breed
+2011-12-01 23:47:23 [INFO] <fatso784> ooohhh
+2011-12-01 23:47:38 [INFO] <boblemoche14> to get seeds you need to break tall grass
+2011-12-01 23:47:40 [INFO] <fatso784> yeah its the crafting like a shovel but in the hoe shape
+2011-12-01 23:47:45 [INFO] <boblemoche14> yeah
+2011-12-01 23:47:47 [INFO] <boblemoche14> oops
+2011-12-01 23:47:49 [INFO] <boblemoche14> sorry
+2011-12-01 23:48:05 [INFO] <boblemoche14> did you explore the chasm?
+2011-12-01 23:48:19 [INFO] <fatso784> careful
+2011-12-01 23:48:27 [INFO] <PsychoDesigns> careful don'y push me over the edge
+2011-12-01 23:48:29 [INFO] <fatso784> there's blocks put up there for a reason
+2011-12-01 23:48:37 [INFO] <fatso784> creepers were falling down
+2011-12-01 23:48:41 [INFO] <boblemoche14> haha
+2011-12-01 23:48:59 [INFO] <PsychoDesigns> lol you have a chicken on the cliff
+2011-12-01 23:49:03 [INFO] <lh00000000> I've just grown so tired of civilization
+2011-12-01 23:49:09 [INFO] <fatso784> hahaha
+2011-12-01 23:51:55 [INFO] <boblemoche14> ok im going back to my home planet
+2011-12-01 23:52:00 [INFO] <PsychoDesigns> yeah me too
+2011-12-01 23:52:00 [INFO] <boblemoche14> until next time
+2011-12-01 23:52:08 [INFO] <fatso784> alright
+2011-12-01 23:52:21 [INFO] <lh00000000> thanks guys
+2011-12-01 23:52:25 [INFO] <fatso784> yeah its not finished yet :D
+2011-12-01 23:52:34 [INFO] <boblemoche14> lh dont forget to set your spawn point
+2011-12-01 23:52:47 [INFO] <lh00000000> sleep in the bed?
+2011-12-01 23:52:49 [INFO] <PsychoDesigns> joachim.. wait for me.. I'm lost
+2011-12-01 23:52:54 [INFO] <boblemoche14> me too
+2011-12-01 23:52:58 [INFO] <fatso784> uhh
+2011-12-01 23:53:07 [INFO] <fatso784> can he sleep in my bed and will that work
+2011-12-01 23:53:13 [INFO] <boblemoche14> i dunno
+2011-12-01 23:53:21 [INFO] <boblemoche14> is this what you did?
+2011-12-01 23:54:19 [INFO] <boblemoche14> ooh get it
+2011-12-01 23:54:22 [INFO] <boblemoche14> we need the pearls
+2011-12-01 23:54:59 [INFO] <boblemoche14> oh well
+2011-12-01 23:55:12 [INFO] <PsychoDesigns> yeah I'm not leaving till its safe
+2011-12-01 23:55:43 [INFO] <PsychoDesigns> watch out
+2011-12-01 23:55:53 [INFO] <lh00000000> aw shat
+2011-12-01 23:56:26 [INFO] <lh00000000> ian, we started a moat
+2011-12-01 23:56:55 [INFO] <PsychoDesigns> alright.. I'm on my way back... good luck
+2011-12-01 23:57:03 [INFO] <fatso784> to the portal?
+2011-12-01 23:57:48 [INFO] <fatso784> whats back there
+2011-12-01 23:57:56 [INFO] <lh00000000> skeleton
+2011-12-01 23:58:08 [INFO] <fatso784> ehhh
+2011-12-01 23:58:10 [INFO] <lh00000000> he's like a story down
+2011-12-01 23:58:14 [INFO] <fatso784> gotta hole this up more
+2011-12-01 23:59:07 [INFO] <PsychoDesigns> where are you joachim?
+2011-12-01 23:59:09 [INFO] <lh00000000> nice stairs
+2011-12-01 23:59:17 [INFO] <boblemoche14> getting some wood in the swamps
+2011-12-01 23:59:29 [INFO] <PsychoDesigns> ok I'm getting back to work...
+2011-12-01 23:59:30 [INFO] <boblemoche14> i lost my last wood in the lava
+2011-12-01 23:59:35 [INFO] <boblemoche14> need to make some tools and torcehs
+2011-12-01 23:59:40 [INFO] <lh00000000> we should encase that chicken in glass
+2011-12-01 23:59:43 [INFO] <PsychoDesigns> real life work
+2011-12-01 23:59:48 [INFO] <boblemoche14> haha
+2011-12-02 00:00:02 [INFO] <PsychoDesigns> later guys
+2011-12-02 00:00:05 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-12-02 00:00:06 [INFO] <fatso784> cya mo
+2011-12-02 00:01:01 [INFO] <fatso784> whoa
+2011-12-02 00:01:05 [INFO] <fatso784> watch out
+2011-12-02 00:01:13 [INFO] <lh00000000> huh?
+2011-12-02 00:01:24 [INFO] <lh00000000> ok to dig here?
+2011-12-02 00:01:26 [INFO] <fatso784> if you try to mine another player you hurt them
+2011-12-02 00:01:32 [INFO] <fatso784> yeah sure
+2011-12-02 00:01:35 [INFO] <lh00000000> oh sorry
+2011-12-02 00:01:45 [INFO] <fatso784> it mimics real life ^^
+2011-12-02 00:01:51 [INFO] <lh00000000> i'm used to lonely craft
+2011-12-02 00:02:08 [INFO] <lh00000000> where every 7 days I go out on a suicide vacation
+2011-12-02 00:02:46 [INFO] <fatso784> suicide....
+2011-12-02 00:03:21 [INFO] <lh00000000> minecraft, where I can live out my fantasies of starving at sea without dying
+2011-12-02 00:03:49 [INFO] <boblemoche14> hehe
+2011-12-02 00:04:26 [INFO] <lh00000000> whoa, how did that enderman get up here?
+2011-12-02 00:04:34 [INFO] <boblemoche14> killl it
+2011-12-02 00:04:40 [INFO] <lh00000000> too hungry
+2011-12-02 00:04:42 [INFO] <boblemoche14> for its delicious pearls
+2011-12-02 00:05:04 [INFO] <fatso784> where
+2011-12-02 00:05:07 [INFO] <lh00000000> I'm lactose intolerant
+2011-12-02 00:05:25 [INFO] <lh00000000> outside the housey thing, on a ledge I can see from the door
+2011-12-02 00:05:30 [INFO] <fatso784> yeah
+2011-12-02 00:05:35 [INFO] <fatso784> dont let it come near us haha
+2011-12-02 00:05:44 [INFO] <fatso784> i thought it was on the bridge
+2011-12-02 00:05:50 [INFO] <boblemoche14> if you look at it directly it gets mad
+2011-12-02 00:06:07 [INFO] <lh00000000> introverts
+2011-12-02 00:06:15 [INFO] <lh00000000> aww it's dark
+2011-12-02 00:06:30 [INFO] <fatso784> make a torch
+2011-12-02 00:06:53 [INFO] <lh00000000> I'm about to starve, do you need a chest?
+2011-12-02 00:07:07 [INFO] <fatso784> yeah
+2011-12-02 00:07:50 [INFO] <lh00000000> i'll put it next to the furnace
+2011-12-02 00:08:44 [INFO] <fatso784> steak in there
+2011-12-02 00:08:57 [INFO] <lh00000000> thanks man
+2011-12-02 00:09:00 [INFO] <fatso784> np
+2011-12-02 00:09:15 [INFO] <fatso784> i should make htis less precarious....
+2011-12-02 00:10:56 [INFO] <fatso784> if you look up outside my house
+2011-12-02 00:11:01 [INFO] <fatso784> you can see the sky
+2011-12-02 00:11:06 [INFO] <fatso784> to determine if its day or not
+2011-12-02 00:11:24 [INFO] <fatso784> and to, of course, ponder the meaning of the universe
+2011-12-02 00:11:32 [INFO] <lh00000000> awesome, did not notice that before haha
+2011-12-02 00:12:10 [INFO] <fatso784> aw shucks
+2011-12-02 00:12:13 [INFO] <boblemoche14> oh shiii
+2011-12-02 00:12:16 [INFO] <lh00000000> hahaha I was doing so well
+2011-12-02 00:12:18 [INFO] <boblemoche14> where did you respawn?
+2011-12-02 00:12:23 [INFO] <lh00000000> ian's bed
+2011-12-02 00:12:29 [INFO] <lh00000000> :D
+2011-12-02 00:12:30 [INFO] <fatso784> ah sweet
+2011-12-02 00:12:32 [INFO] <boblemoche14> awesome
+2011-12-02 00:12:56 [INFO] <fatso784> you should carve your own little house
+2011-12-02 00:13:14 [INFO] <lh00000000> any place off limits to dig?
+2011-12-02 00:13:33 [INFO] <fatso784> my house, obviously haha
+2011-12-02 00:13:43 [INFO] <fatso784> but no not really
+2011-12-02 00:13:58 [INFO] <fatso784> just make suren o monsters can get through :P
+2011-12-02 00:14:24 [INFO] <lh00000000> okie doke
+2011-12-02 00:20:06 [INFO] <fatso784> shweeeet
+2011-12-02 00:20:33 [INFO] <lh00000000> that enderman neighbors
+2011-12-02 00:20:48 [INFO] <lh00000000> neighbor*
+2011-12-02 00:21:21 [INFO] <lh00000000> messin' up the property value, man
+2011-12-02 00:21:27 [INFO] <fatso784> yeah
+2011-12-02 00:21:34 [INFO] <fatso784> one of these days
+2011-12-02 00:21:44 [INFO] <fatso784> im going to go over there and kill him and his family
+2011-12-02 00:22:17 [INFO] <lh00000000> *shakes fist*
+2011-12-02 00:22:53 [INFO] <fatso784> do you know how to make torches
+2011-12-02 00:23:04 [INFO] <lh00000000> yepz
+2011-12-02 00:23:07 [INFO] <fatso784> kk
+2011-12-02 00:23:32 [INFO] <lh00000000> I forgot they don't drop coal if you don't have a pickaxe at first
+2011-12-02 00:23:44 [INFO] <fatso784> right
+2011-12-02 00:26:47 [INFO] <fatso784> oh shiiiii
+2011-12-02 00:26:55 [INFO] <lh00000000> whappnd?
+2011-12-02 00:26:57 [INFO] <fatso784> if you hit water
+2011-12-02 00:26:59 [INFO] <boblemoche14> did you find something?
+2011-12-02 00:27:00 [INFO] <fatso784> it flows in
+2011-12-02 00:27:06 [INFO] <boblemoche14> yes but dont worry
+2011-12-02 00:27:17 [INFO] <boblemoche14> its
+2011-12-02 00:27:17 [INFO] <boblemoche14> its t
+2011-12-02 00:27:17 [INFO] <boblemoche14> its tt
+2011-12-02 00:27:28 [INFO] <boblemoche14> minecraft fluid dynamics
+2011-12-02 00:27:37 [INFO] <boblemoche14> its weird
+2011-12-02 00:27:50 [INFO] <fatso784> yea
+2011-12-02 00:32:55 [INFO] <lh00000000> I think I should just get it out there now that I am obsessed with chests
+2011-12-02 00:33:08 [INFO] <fatso784> hahahahahaha
+2011-12-02 00:33:20 [INFO] <fatso784> im glad you revealed that to us
+2011-12-02 00:33:36 [INFO] <boblemoche14> do you have special storage protocols?
+2011-12-02 00:34:02 [INFO] <lh00000000> no I usually play sp and just put them everywhere
+2011-12-02 00:34:27 [INFO] <boblemoche14> thats useful
+2011-12-02 00:35:01 [INFO] <boblemoche14> boo you cant enchant bows
+2011-12-02 00:35:27 [INFO] <lh00000000> aww
+2011-12-02 00:35:38 [INFO] <fatso784> oh fuck
+2011-12-02 00:35:43 [INFO] <boblemoche14> hows your base building going?
+2011-12-02 00:35:44 [INFO] <fatso784> a creeper came in somehow
+2011-12-02 00:35:55 [INFO] <lh00000000> o shit
+2011-12-02 00:36:01 [INFO] <fatso784> its really turbelent farther down
+2011-12-02 00:36:18 [INFO] <boblemoche14> hey im going to bring a boat
+2011-12-02 00:36:19 [INFO] <lh00000000> water or mob wise?
+2011-12-02 00:36:22 [INFO] <boblemoche14> and a map
+2011-12-02 00:36:29 [INFO] <boblemoche14> and explore the area around your island
+2011-12-02 00:36:29 [INFO] <fatso784> okay
+2011-12-02 00:36:33 [INFO] <fatso784> sweet
+2011-12-02 00:36:35 [INFO] <lh00000000> sounds good
+2011-12-02 00:38:54 [INFO] <boblemoche14> did you get some iron?
+2011-12-02 00:39:01 [INFO] <fatso784> ho
+2011-12-02 00:39:19 [INFO] <boblemoche14> did you get a farm going?
+2011-12-02 00:39:20 [INFO] <fatso784> ya
+2011-12-02 00:39:24 [INFO] <fatso784> no
+2011-12-02 00:39:31 [INFO] <boblemoche14> hehe
+2011-12-02 00:39:31 [INFO] <fatso784> luming you can do that if you want
+2011-12-02 00:39:50 [INFO] <lh00000000> ok lemmie get some wood
+2011-12-02 00:40:18 [INFO] <boblemoche14> also
+2011-12-02 00:40:22 [INFO] <boblemoche14> the good stuff is lower
+2011-12-02 00:40:24 [INFO] <lh00000000> can we do a wood farm? That's the biggest minecraft accomplishment I've ever had
+2011-12-02 00:40:25 [INFO] <boblemoche14> mining tip
+2011-12-02 00:40:36 [INFO] <lh00000000> yeah I think I saw some gold
+2011-12-02 00:40:40 [INFO] <fatso784> yeah thats why im building a mine haha
+2011-12-02 00:41:00 [INFO] <boblemoche14> you only get diamonds at the lowest levels
+2011-12-02 00:41:01 [INFO] <fatso784> yeah sure wood farm works
+2011-12-02 00:41:34 [INFO] <lh00000000> I'm just here to pillage mother nature
+2011-12-02 00:42:07 [INFO] <boblemoche14> thats what minecraft is all about
+2011-12-02 00:42:31 [INFO] <lh00000000> team humans!
+2011-12-02 00:42:54 [INFO] <boblemoche14> im on a boat
+2011-12-02 00:43:09 [INFO] <fatso784> :D
+2011-12-02 00:43:17 [INFO] <lh00000000> hey there
+2011-12-02 00:43:22 [INFO] <boblemoche14> hey
+2011-12-02 00:43:33 [INFO] <boblemoche14> you should build a lighthouse on this tip
+2011-12-02 00:43:52 [INFO] <boblemoche14> so the island can be seen from afar ;)
+2011-12-02 00:44:22 [INFO] <lh00000000> what should we use as the light source?
+2011-12-02 00:44:37 [INFO] <boblemoche14> torches or pumpkin lanterns or glowstone from hell
+2011-12-02 00:44:50 [INFO] <boblemoche14> or magma encased in glass :P
+2011-12-02 00:45:08 [INFO] <lh00000000> i guess that means torches haha
+2011-12-02 00:45:09 [INFO] <boblemoche14> my boat broke
+2011-12-02 00:45:39 [INFO] <boblemoche14> dont mind me stealing a tree
+2011-12-02 00:45:46 [INFO] <lh00000000> no probz
+2011-12-02 00:46:11 [INFO] <boblemoche14> argh
+2011-12-02 00:46:24 [INFO] <boblemoche14> how do you call those floating plants
+2011-12-02 00:46:38 [INFO] <lh00000000> the lily pads?
+2011-12-02 00:46:41 [INFO] <boblemoche14> theyre like boat mines
+2011-12-02 00:47:42 [INFO] <lh00000000> darn boat design
+2011-12-02 00:49:26 [INFO] <lh00000000> ughh I don't know how to function without a nearly infinite supply of wood
+2011-12-02 00:49:44 [INFO] <boblemoche14> use bonemeal on tree saplings
+2011-12-02 00:49:53 [INFO] <boblemoche14> after you plant them
+2011-12-02 00:49:59 [INFO] <boblemoche14> get bone meal from bones
+2011-12-02 00:50:33 [INFO] <lh00000000> i'm going to attempt to get rid of this enderman first
+2011-12-02 00:51:40 [INFO] <lh00000000> well that was easy, I just pushed him off the ledge
+2011-12-02 00:51:57 [INFO] <fatso784> nice
+2011-12-02 00:51:58 [INFO] <boblemoche14> get his pearl
+2011-12-02 00:52:24 [INFO] <lh00000000> I can't even see it haha
+2011-12-02 00:53:57 [INFO] <boblemoche14> whaat
+2011-12-02 00:54:11 [INFO] <boblemoche14> who built a bridge so low boats cant get through :(
+2011-12-02 00:54:53 [INFO] <lh00000000> wasn't me :P
+2011-12-02 00:55:24 [INFO] <boblemoche14> its a whole landmass north of that bridge
+2011-12-02 00:55:27 [INFO] <boblemoche14> with a desert
+2011-12-02 00:55:35 [INFO] <fatso784> sweet
+2011-12-02 00:57:05 [INFO] <fatso784> whoooaaa
+2011-12-02 00:57:08 [INFO] <fatso784> hit lava
+2011-12-02 00:57:18 [INFO] <boblemoche14> watch out
+2011-12-02 00:57:36 [INFO] <fatso784> yeah
+2011-12-02 00:57:45 [INFO] <lh00000000> creeper, y u no burn?
+2011-12-02 00:57:45 [INFO] <boblemoche14> if its the lava layer at the bottom instead of just a pocket
+2011-12-02 00:57:51 [INFO] <boblemoche14> it means youre at diamond level
+2011-12-02 00:58:06 [INFO] <boblemoche14> you need an iron pick to mine diamond though
+2011-12-02 00:59:53 [INFO] <fatso784> sweet stairs
+2011-12-02 01:00:37 [INFO] <boblemoche14> wanna see a map of your island
+2011-12-02 01:00:39 [INFO] <boblemoche14> ?
+2011-12-02 01:00:48 [INFO] <lh00000000> sure
+2011-12-02 01:01:12 [INFO] <lh00000000> awesome thanks
+2011-12-02 01:01:15 [INFO] <boblemoche14> haha
+2011-12-02 01:01:22 [INFO] <boblemoche14> i keep breaking my boat :(
+2011-12-02 01:01:51 [INFO] <lh00000000> Such is art
+2011-12-02 01:02:11 [INFO] <boblemoche14> check it out
+2011-12-02 01:02:34 [INFO] <fatso784> whooa
+2011-12-02 01:02:37 [INFO] <fatso784> howd u get this
+2011-12-02 01:02:38 [INFO] <boblemoche14> hehe
+2011-12-02 01:02:47 [INFO] <boblemoche14> compass+paper
+2011-12-02 01:02:54 [INFO] <boblemoche14> you get paper from reeds
+2011-12-02 01:03:01 [INFO] <boblemoche14> and compass is redstone+iron
+2011-12-02 01:03:11 [INFO] <fatso784> where do you get redstone
+2011-12-02 01:03:16 [INFO] <boblemoche14> in the mines
+2011-12-02 01:03:21 [INFO] <fatso784> o
+2011-12-02 01:03:23 [INFO] <boblemoche14> you need an iron pick I think
+2011-12-02 01:03:31 [INFO] <boblemoche14> its stone with red spots on it
+2011-12-02 01:03:40 [INFO] <fatso784> okay
+2011-12-02 01:03:40 [INFO] <boblemoche14> thats what you use to make circuits too
+2011-12-02 01:03:55 [INFO] <fatso784> :O
+2011-12-02 01:04:00 [INFO] <lh00000000> ahh!
+2011-12-02 01:04:01 [INFO] <boblemoche14> some guy made a cpu in minecraft
+2011-12-02 01:04:21 [INFO] <fatso784> ???
+2011-12-02 01:04:27 [INFO] <fatso784> are there zombies in your house
+2011-12-02 01:04:33 [INFO] <lh00000000> I tried to get my sword haha
+2011-12-02 01:04:41 [INFO] <lh00000000> 2nd story down from the houses
+2011-12-02 01:04:55 [INFO] <lh00000000> i think it's just too dark so stuff spawns
+2011-12-02 01:05:48 [INFO] <lh00000000> crap, now there's a creeper
+2011-12-02 01:06:09 [INFO] <fatso784> hahahaha
+2011-12-02 01:06:19 [INFO] <lh00000000> well at least this one's harmless
+2011-12-02 01:14:05 [INFO] <boblemoche14> hey
+2011-12-02 01:14:14 [INFO] <lh00000000> hello
+2011-12-02 01:14:19 [INFO] <boblemoche14> you really should mine that coal and iron in your walls
+2011-12-02 01:14:55 [INFO] <lh00000000> I used up my pickaxes haha
+2011-12-02 01:15:26 [INFO] <boblemoche14> whoah
+2011-12-02 01:15:34 [INFO] <fatso784> ?
+2011-12-02 01:15:37 [INFO] <boblemoche14> this mining complex is getting cooler and cooler
+2011-12-02 01:15:51 [INFO] <fatso784> ^^
+2011-12-02 01:16:08 [INFO] <lh00000000> glad it didn't start to get suckier when i arrived haha
+2011-12-02 01:16:11 [INFO] <boblemoche14> you missed plenty of iron though!
+2011-12-02 01:16:24 [INFO] <fatso784> i have plenty haha
+2011-12-02 01:16:40 [INFO] <lh00000000> wood is more visually appealing
+2011-12-02 01:16:56 [INFO] <fatso784> amen to that bro
+2011-12-02 01:16:57 [INFO] <lh00000000> and looking pretty is my primary concern
+2011-12-02 01:16:59 [INFO] <boblemoche14> i dont think youre deep enough
+2011-12-02 01:17:12 [INFO] <fatso784> im getting there
+2011-12-02 01:17:22 [INFO] <boblemoche14> that lava is just a small pool
+2011-12-02 01:17:25 [INFO] <boblemoche14> its not the real thing
+2011-12-02 01:17:29 [INFO] <fatso784> i want there to be rooms along the way
+2011-12-02 01:17:31 [INFO] <boblemoche14> you can go much deeper ;)
+2011-12-02 01:17:33 [INFO] <fatso784> yeah
+2011-12-02 01:17:36 [INFO] <fatso784> SHWEET
+2011-12-02 01:18:18 [INFO] <boblemoche14> gold
+2011-12-02 01:18:44 [INFO] <boblemoche14> find any redstone?
+2011-12-02 01:18:48 [INFO] <fatso784> i need a new pickaze
+2011-12-02 01:18:51 [INFO] <fatso784> not yet
+2011-12-02 01:18:54 [INFO] <boblemoche14> thats what you use to make clocks too
+2011-12-02 01:19:01 [INFO] <fatso784> o
+2011-12-02 01:19:15 [INFO] <boblemoche14> where should I dig?
+2011-12-02 01:19:29 [INFO] <fatso784> uhhhm
+2011-12-02 01:19:33 [INFO] <fatso784> h/o
+2011-12-02 01:20:02 [INFO] <lh00000000> oh fuck
+2011-12-02 01:20:04 [INFO] <fatso784> okay
+2011-12-02 01:20:14 [INFO] <fatso784> dig in the opposite direction like
+2011-12-02 01:20:37 [INFO] <fatso784> either build a tunner far in this direction
+2011-12-02 01:20:42 [INFO] <fatso784> where im pointin
+2011-12-02 01:20:48 [INFO] <fatso784> or the opposite
+2011-12-02 01:20:52 [INFO] <boblemoche14> opposite
+2011-12-02 01:21:00 [INFO] <fatso784> okay
+2011-12-02 01:22:57 [INFO] <fatso784> did you ever watch the stanford lectures on quantum mechanics
+2011-12-02 01:23:09 [INFO] <boblemoche14> not yet
+2011-12-02 01:23:15 [INFO] <boblemoche14> i have them bookmarked though :P
+2011-12-02 01:23:21 [INFO] <fatso784> hahaha so youve seen them
+2011-12-02 01:23:43 [INFO] <fatso784> wow
+2011-12-02 01:23:47 [INFO] <fatso784> im out of inventory space
+2011-12-02 01:23:49 [INFO] <boblemoche14> yeah its really cool that theyre putting so much stuff online
+2011-12-02 01:23:54 [INFO] <boblemoche14> make a chest
+2011-12-02 01:23:56 [INFO] <fatso784> yeah
+2011-12-02 01:23:58 [INFO] <fatso784> okay
+2011-12-02 01:24:11 [INFO] <lh00000000> did somebody say chest?!?!
+2011-12-02 01:24:33 [INFO] <fatso784> yeah the qm lectures are cool cause susskind does them
+2011-12-02 01:24:47 [INFO] <boblemoche14> thats redstone btw
+2011-12-02 01:24:54 [INFO] <fatso784> okay
+2011-12-02 01:30:58 [INFO] <fatso784> so what is everyone doing
+2011-12-02 01:31:12 [INFO] <boblemoche14> im exploring
+2011-12-02 01:31:17 [INFO] <lh00000000> I'm digging the tree farm room
+2011-12-02 01:31:17 [INFO] <boblemoche14> gonna be leaving soon
+2011-12-02 01:31:24 [INFO] <lh00000000> yeah me too
+2011-12-02 01:31:28 [INFO] <boblemoche14> i have to sleep irl
+2011-12-02 01:31:30 [INFO] <boblemoche14> hehe
+2011-12-02 01:31:32 [INFO] <lh00000000> it's raining :o
+2011-12-02 01:31:46 [INFO] <boblemoche14> raining in an underwater cave
+2011-12-02 01:32:59 [INFO] <boblemoche14> anyone have some wool
+2011-12-02 01:33:00 [INFO] <boblemoche14> ?
+2011-12-02 01:33:10 [INFO] <fatso784> pnly 1
+2011-12-02 01:33:11 [INFO] <lh00000000> nope sorry
+2011-12-02 01:33:24 [INFO] <boblemoche14> cool i wanna show you something
+2011-12-02 01:33:36 [INFO] <lh00000000> swimming skele...
+2011-12-02 01:33:40 [INFO] <boblemoche14> where are you?
+2011-12-02 01:33:49 [INFO] <fatso784> where i was digging
+2011-12-02 01:33:54 [INFO] <fatso784> where are ye
+2011-12-02 01:35:02 [INFO] <boblemoche14> cool
+2011-12-02 01:35:17 [INFO] <boblemoche14> give me your wool ill show you
+2011-12-02 01:36:03 [INFO] <fatso784> XD AWESOME
+2011-12-02 01:36:16 [INFO] <fatso784> :O
+2011-12-02 01:36:22 [INFO] <fatso784> is it random
+2011-12-02 01:36:26 [INFO] <boblemoche14> yes everytime
+2011-12-02 01:36:45 [INFO] <fatso784> thanks
+2011-12-02 01:36:54 [INFO] <boblemoche14> wool in the middle and sticks all around
+2011-12-02 01:36:55 [INFO] <fatso784> ahh
+2011-12-02 01:42:43 [INFO] <lh00000000> got any dirt?
+2011-12-02 01:42:48 [INFO] <boblemoche14> not much
+2011-12-02 01:43:01 [INFO] <lh00000000> oh well
+2011-12-02 01:43:02 [INFO] <boblemoche14> i have gravel if you want
+2011-12-02 01:43:12 [INFO] <lh00000000> can trees grow on gravel?
+2011-12-02 01:43:31 [INFO] <boblemoche14> nah
+2011-12-02 01:43:46 [INFO] <boblemoche14> but you dont need to cover everything in dirt either
+2011-12-02 01:43:55 [INFO] <boblemoche14> 1 block per tree is enough ;)
+2011-12-02 01:44:04 [INFO] <lh00000000> i just stole this layout from the wiki haha
+2011-12-02 01:44:13 [INFO] <boblemoche14> cool
+2011-12-02 01:44:18 [INFO] <boblemoche14> where do the trees go?
+2011-12-02 01:44:27 [INFO] <lh00000000> the dirt blocks
+2011-12-02 01:44:38 [INFO] <boblemoche14> but not everyone
+2011-12-02 01:44:42 [INFO] <boblemoche14> yes?
+2011-12-02 01:44:51 [INFO] <boblemoche14> you can plant them right next to each other?
+2011-12-02 01:45:01 [INFO] <lh00000000> so every tree will have at least one torch adjacent
+2011-12-02 01:45:04 [INFO] <lh00000000> i think you can
+2011-12-02 01:45:07 [INFO] <lh00000000> worked for me
+2011-12-02 01:45:14 [INFO] <boblemoche14> cool
+2011-12-02 01:45:23 [INFO] <boblemoche14> here I made a tree
+2011-12-02 01:45:29 [INFO] <lh00000000> :D
+2011-12-02 01:45:43 [INFO] <lh00000000> I have to dig straight up, don't laugh if I suffocate
+2011-12-02 01:48:27 [INFO] <boblemoche14> you should light your rooms better
+2011-12-02 01:48:34 [INFO] <boblemoche14> creepers spawn in them
+2011-12-02 01:48:41 [INFO] <lh00000000> aw crap
+2011-12-02 01:48:45 [INFO] <fatso784> me?
+2011-12-02 01:48:49 [INFO] <boblemoche14> i dunno
+2011-12-02 01:48:58 [INFO] <fatso784> in bed do i regain health
+2011-12-02 01:49:04 [INFO] <boblemoche14> no you have to eat
+2011-12-02 01:49:08 [INFO] <boblemoche14> or die and respawn :p
+2011-12-02 01:49:16 [INFO] <lh00000000> (that's what I do)
+2011-12-02 01:49:30 [INFO] <fatso784> luming im eating the chicken
+2011-12-02 01:49:37 [INFO] <lh00000000> no prob
+2011-12-02 01:49:49 [INFO] <boblemoche14> dont forget to cook it
+2011-12-02 01:49:59 [INFO] <lh00000000> we should start a chicken farm too
+2011-12-02 01:50:11 [INFO] <boblemoche14> you need wheat for that
+2011-12-02 01:50:27 [INFO] <lh00000000> I think I got some seeds from somewhere
+2011-12-02 01:50:41 [INFO] <lh00000000> thanks :)
+2011-12-02 01:50:46 [INFO] <boblemoche14> the best way is to plant it on dirt next to water
+2011-12-02 01:51:27 [INFO] <fatso784> whoa
+2011-12-02 01:51:33 [INFO] <fatso784> luming is growing stuff here
+2011-12-02 01:51:43 [INFO] <boblemoche14> its just trees
+2011-12-02 01:51:43 [INFO] <lh00000000> there's plenty of water in the soon-to-be tree room
+2011-12-02 01:51:47 [INFO] <fatso784> mushroom farm!
+2011-12-02 01:51:54 [INFO] <lh00000000> plzzz?
+2011-12-02 01:51:59 [INFO] <fatso784> jk
+2011-12-02 01:52:07 [INFO] <boblemoche14> you can make mushroom farms too
+2011-12-02 01:52:17 [INFO] <lh00000000> no, they really put in mycelium and stuff
+2011-12-02 01:52:23 [INFO] <boblemoche14> then use mushrooms for mushroom stew for food
+2011-12-02 01:52:30 [INFO] <boblemoche14> with a bowl
+2011-12-02 01:52:40 [INFO] <fatso784> we need a safer way to get to the surface
+2011-12-02 01:53:02 [INFO] <lh00000000> use one of the doors i put in your chest
+2011-12-02 01:53:13 [INFO] <fatso784> no i mean
+2011-12-02 01:53:24 [INFO] <fatso784> in genera
+2011-12-02 01:53:37 [INFO] <fatso784> thanks
+2011-12-02 01:53:48 [INFO] <lh00000000> like a ladder?
+2011-12-02 01:54:38 [INFO] <fatso784> well, that later on
+2011-12-02 01:54:42 [INFO] <fatso784> ill build it
+2011-12-02 01:54:47 [INFO] <fatso784> just need some hp
+2011-12-02 01:55:13 [INFO] <lh00000000> has anyone seen any pumpkins?
+2011-12-02 01:55:27 [INFO] <boblemoche14> not in the area
+2011-12-02 01:55:39 [INFO] <boblemoche14> maybe theres some on the landmass to the north
+2011-12-02 01:55:57 [INFO] <fatso784> hmm
+2011-12-02 01:55:57 [INFO] <boblemoche14> theres some in my chest on the other side of hell too
+2011-12-02 01:56:13 [INFO] <lh00000000> we might have to work out a trade haha
+2011-12-02 01:56:14 [INFO] <boblemoche14> theres no water here
+2011-12-02 01:56:19 [INFO] <lh00000000> that corner
+2011-12-02 01:56:27 [INFO] <boblemoche14> feel free to pick some
+2011-12-02 01:56:52 [INFO] <boblemoche14> yeah no for farming wheat you need water blocks next to the dirt blocks
+2011-12-02 01:56:56 [INFO] <boblemoche14> not flowing water
+2011-12-02 01:57:02 [INFO] <boblemoche14> like actual source blocks
+2011-12-02 01:57:07 [INFO] <lh00000000> I need some jack o laterns so I can build a higher ceiling
+2011-12-02 01:57:35 [INFO] <boblemoche14> not sure what jacko lanterns have to do with higher ceilings
+2011-12-02 01:57:45 [INFO] <boblemoche14> but feel free to take some stuff from my chest
+2011-12-02 01:57:51 [INFO] <boblemoche14> you can farm pumpkins too
+2011-12-02 01:57:51 [INFO] <lh00000000> so i light it when it floods
+2011-12-02 01:58:13 [INFO] <lh00000000> eh I just need a few
+2011-12-02 01:58:23 [INFO] <fatso784> woot armor ^^
+2011-12-02 01:58:34 [INFO] <boblemoche14> cool
+2011-12-02 01:58:45 [INFO] <boblemoche14> now you can find stuff
+2011-12-02 01:58:50 [INFO] <boblemoche14> get me some ender pearls
+2011-12-02 01:58:55 [INFO] <boblemoche14> :Pw
+2011-12-02 01:58:59 [INFO] <fatso784> hahaha
+2011-12-02 01:59:03 [INFO] <fatso784> still need hp
+2011-12-02 01:59:16 [INFO] <fatso784> but suns comin up
+2011-12-02 01:59:25 [INFO] <boblemoche14> sun is up
+2011-12-02 01:59:30 [INFO] <boblemoche14> theres chickens on your island
+2011-12-02 01:59:42 [INFO] <boblemoche14> put em in a closed off area
+2011-12-02 01:59:46 [INFO] <boblemoche14> and feed em some wheat
+2011-12-02 01:59:56 [INFO] <boblemoche14> they follow you if you have wheat
+2011-12-02 02:00:07 [INFO] <boblemoche14> you get seeds by breaking grass
+2011-12-02 02:00:20 [INFO] <fatso784> i gave all my seeds to luming haha
+2011-12-02 02:00:30 [INFO] <lh00000000> they're in my chest haha
+2011-12-02 02:00:30 [INFO] <boblemoche14> you need a hoe
+2011-12-02 02:00:38 [INFO] <boblemoche14> to till dirt near water
+2011-12-02 02:00:44 [INFO] <boblemoche14> then just plant the seeds in it
+2011-12-02 02:00:46 [INFO] <fatso784> okay
+2011-12-02 02:01:02 [INFO] <fatso784> lag
+2011-12-02 02:01:13 [INFO] <fatso784> does it get alggier the more we play
+2011-12-02 02:01:18 [INFO] <boblemoche14> it shouldnt
+2011-12-02 02:01:21 [INFO] <fatso784> okay
+2011-12-02 02:01:29 [INFO] <boblemoche14> take this
+2011-12-02 02:01:34 [INFO] <boblemoche14> made from bones
+2011-12-02 02:01:37 [INFO] <lh00000000> it lags for me when the time of day changes
+2011-12-02 02:01:43 [INFO] <boblemoche14> use it on your planted seeds and it grows instantly
+2011-12-02 02:01:52 [INFO] <fatso784> thanks
+2011-12-02 02:02:37 [INFO] <boblemoche14> ok im logging off
+2011-12-02 02:02:40 [INFO] <boblemoche14> see you
+2011-12-02 02:02:46 [INFO] <fatso784> cya
+2011-12-02 02:02:50 [INFO] <lh00000000> see ya thanks
+2011-12-02 02:03:44 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-12-02 02:05:44 [INFO] <lh00000000> the tree room will be temporary underwater for a while...
+2011-12-02 02:05:54 [INFO] <fatso784> lol
+2011-12-02 02:07:46 [INFO] <fatso784> ahhh luming
+2011-12-02 02:07:55 [INFO] <lh00000000> hahah
+2011-12-02 02:08:02 [INFO] <fatso784> get in
+2011-12-02 02:08:13 [INFO] <fatso784> qucik
+2011-12-02 02:08:17 [INFO] <fatso784> before you die
+2011-12-02 02:08:17 [INFO] <lh00000000> is this what you meant by new way to get to the surface?
+2011-12-02 02:08:38 [INFO] <fatso784> yeah
+2011-12-02 02:08:44 [INFO] <fatso784> but its small now
+2011-12-02 02:08:52 [INFO] <fatso784> im going to use all the blocks i got from mining
+2011-12-02 02:08:56 [INFO] <fatso784> and build a giant bridge
+2011-12-02 02:09:03 [INFO] <lh00000000> to the portal?
+2011-12-02 02:09:03 [INFO] <fatso784> to the portal
+2011-12-02 02:09:06 [INFO] <fatso784> yeah
+2011-12-02 02:09:08 [INFO] <lh00000000> :O
+2011-12-02 02:09:22 [INFO] <lh00000000> well where i surfaced is where the failed tree room is haha
+2011-12-02 02:09:33 [INFO] <fatso784> noted haha
+2011-12-02 02:09:58 [INFO] <lh00000000> if we can, we can build a trapdoor to it
+2011-12-02 02:10:03 [INFO] <fatso784> yeah
+2011-12-02 02:10:08 [INFO] <fatso784> if its not flooded
+2011-12-02 02:10:31 [INFO] <lh00000000> when it's not flooded. It's beyond flooded right now
+2011-12-02 02:12:37 [INFO] <lh00000000> goodbye cruel world!
+2011-12-02 02:12:45 [INFO] <fatso784> nooooo
+2011-12-02 02:13:03 [INFO] <lh00000000> I'm going to die in your bed
+2011-12-02 02:13:18 [INFO] <lh00000000> to make it scary
+2011-12-02 02:13:22 [INFO] <fatso784> holy shit
+2011-12-02 02:13:30 [INFO] <fatso784> that room scares me
+2011-12-02 02:13:45 [INFO] <lh00000000> Just needs some wood floors!
+2011-12-02 02:13:49 [INFO] <fatso784> lol
+2011-12-02 02:14:01 [INFO] <lh00000000> give me a whack
+2011-12-02 02:14:33 [INFO] <fatso784> did i pick up any of your shit
+2011-12-02 02:14:47 [INFO] <lh00000000> eh nothing I need
+2011-12-02 02:14:51 [INFO] <fatso784> kk
+2011-12-02 02:15:05 [INFO] <fatso784> back to building a bridge to nowhere
+2011-12-02 02:15:15 [INFO] <lh00000000> come look at the aquarium first
+2011-12-02 02:15:39 [INFO] <lh00000000> ahh another zombie
+2011-12-02 02:16:11 [INFO] <fatso784> holy shit you had 50 torches
+2011-12-02 02:16:20 [INFO] <fatso784> you want em back
+2011-12-02 02:16:21 [INFO] <lh00000000> oh I need a couple
+2011-12-02 02:16:58 [INFO] <lh00000000> come to the fish tank
+2011-12-02 02:17:06 [INFO] <lh00000000> oh haha
+2011-12-02 02:17:07 [INFO] <fatso784> did you get em
+2011-12-02 02:17:11 [INFO] <lh00000000> yep thanks
+2011-12-02 02:17:27 [INFO] <fatso784> whoa haha
+2011-12-02 02:17:47 [INFO] <lh00000000> yeeahh... haha
+2011-12-02 02:31:07 [INFO] <fatso784> :/
+2011-12-02 02:31:11 [INFO] <lh00000000> ahhhh
+2011-12-02 02:31:24 [INFO] <lh00000000> do you have any buckets?
+2011-12-02 02:31:27 [INFO] <fatso784> no
+2011-12-02 02:31:44 [INFO] <lh00000000> can I make one with the iron
+2011-12-02 02:31:47 [INFO] <lh00000000> in the chest?
+2011-12-02 02:31:52 [INFO] <fatso784> go for it
+2011-12-02 02:32:06 [INFO] <lh00000000> sweet. I think I closed it up but source blocks spawned
+2011-12-02 02:33:21 [INFO] <fatso784> dawn!
+2011-12-02 02:33:52 [INFO] <lh00000000> I could see it for a second
+2011-12-02 02:34:05 [INFO] <lh00000000> I wish we had glass
+2011-12-02 02:34:17 [INFO] <fatso784> how u make that
+2011-12-02 02:34:27 [INFO] <lh00000000> probably something with sand in the furnace
+2011-12-02 02:34:45 [INFO] <lh00000000> yeah
+2011-12-02 02:34:47 [INFO] <fatso784> u doh sand don maek glass durr
+2011-12-02 02:34:55 [INFO] <fatso784> haha jk youre prob right
+2011-12-02 02:35:09 [INFO] <lh00000000> yeah I just looked it up in the wiki
+2011-12-02 02:35:15 [INFO] <lh00000000> you just cook some sand
+2011-12-02 02:44:16 [INFO] <lh00000000> die water die!
+2011-12-02 02:44:26 [INFO] <fatso784> you got a bucket
+2011-12-02 02:44:37 [INFO] <lh00000000> yup
+2011-12-02 02:44:42 [INFO] <fatso784> :D
+2011-12-02 02:46:02 [INFO] <lh00000000> if it wasn't so dark, we could have left the waterfall and said it was a mediation room
+2011-12-02 02:46:17 [INFO] <fatso784> haha yes
+2011-12-02 02:46:29 [INFO] <lh00000000> YAY!
+2011-12-02 02:46:38 [INFO] <lh00000000> water's gone!
+2011-12-02 02:46:49 [INFO] <fatso784> thank goodness
+2011-12-02 02:46:56 [INFO] <fatso784> gj
+2011-12-02 02:47:04 [INFO] <lh00000000> aww crap it's back
+2011-12-02 02:47:07 [INFO] <lh00000000> hahah
+2011-12-02 02:47:28 [INFO] <lh00000000> how's the bridge?
+2011-12-02 02:47:57 [INFO] <fatso784> almost reaches the portal, but its only 1 block wide
+2011-12-02 02:48:01 [INFO] <fatso784> right now
+2011-12-02 02:48:37 [INFO] <lh00000000> eh we'll put some rails on it later
+2011-12-02 02:48:42 [INFO] <fatso784> yeah
+2011-12-02 02:48:50 [INFO] <lh00000000> then we will be civilized!
+2011-12-02 02:49:02 [INFO] <fatso784> haha
+2011-12-02 02:49:36 [INFO] <lh00000000> sweet i saw it for a second
+2011-12-02 02:49:52 [INFO] <fatso784> :D
+2011-12-02 02:49:55 [INFO] <fatso784> connected
+2011-12-02 02:50:32 [INFO] <fatso784> OH FUCK
+2011-12-02 02:50:39 [INFO] <fatso784> ender on the bridge
+2011-12-02 02:50:41 [INFO] <lh00000000> whappen
+2011-12-02 02:50:44 [INFO] <lh00000000> oh shit
+2011-12-02 02:50:45 [INFO] <fatso784> how the hell
+2011-12-02 02:50:59 [INFO] <lh00000000> >:C ruining the neighborhood!
+2011-12-02 02:51:00 [INFO] <fatso784> i cant die here either
+2011-12-02 02:51:05 [INFO] <fatso784> or i lose my stuff
+2011-12-02 02:51:54 [INFO] <fatso784> :/
+2011-12-02 02:52:15 [INFO] <lh00000000> I'll pack up check
+2011-12-02 02:52:24 [INFO] <lh00000000> with torches
+2011-12-02 02:52:29 [INFO] <fatso784> kk
+2011-12-02 02:54:04 [INFO] <lh00000000> FUCK DEATH!
+2011-12-02 02:54:26 [INFO] <fatso784> i wonder what that guy would do in minecraft
+2011-12-02 02:54:56 [INFO] <lh00000000> he'd probably just do an obscene mod
+2011-12-02 02:55:24 [INFO] <lh00000000> is that your boat?
+2011-12-02 02:55:37 [INFO] <fatso784> no
+2011-12-02 02:55:47 [INFO] <fatso784> and holy hell why are all these monsters here
+2011-12-02 02:55:57 [INFO] <fatso784> below
+2011-12-02 02:56:03 [INFO] <lh00000000> yeah it's like day
+2011-12-02 02:56:16 [INFO] <lh00000000> where did the ender go?
+2011-12-02 02:56:23 [INFO] <fatso784> no idea might have fell
+2011-12-02 02:57:11 [INFO] <lh00000000> i hate the skeles
+2011-12-02 02:57:18 [INFO] <fatso784> yeah
+2011-12-02 02:58:26 [INFO] <lh00000000> i'm going to make some glass for that part you're at now
+2011-12-02 02:58:32 [INFO] <fatso784> OKAY
+2011-12-02 02:58:45 [INFO] <fatso784> CAPS LOCK UNITENTIONAL SORRY
+2011-12-02 02:59:06 [INFO] <lh00000000> no problem haha
+2011-12-02 03:04:28 [INFO] <fatso784> whoa rain
+2011-12-02 03:04:41 [INFO] <lh00000000> :D
+2011-12-02 03:10:08 [INFO] <fatso784> ahhh
+2011-12-02 03:10:12 [INFO] <fatso784> no luming
+2011-12-02 03:10:19 [INFO] <fatso784> theres too many
+2011-12-02 03:10:27 [INFO] <lh00000000> hahah
+2011-12-02 03:10:34 [INFO] <lh00000000> there's always a spider at that door
+2011-12-02 03:12:40 [INFO] <lh00000000> ey
+2011-12-02 03:12:47 [INFO] <fatso784> wats new
+2011-12-02 03:12:53 [INFO] <lh00000000> glass
+2011-12-02 03:13:06 [INFO] <fatso784> o_o
+2011-12-02 03:13:27 [INFO] <fatso784> what for
+2011-12-02 03:13:33 [INFO] <lh00000000> for that platform
+2011-12-02 03:13:37 [INFO] <fatso784> bridge?
+2011-12-02 03:13:54 [INFO] <lh00000000> the one over the opening
+2011-12-02 03:14:02 [INFO] <fatso784> ahh niice
+2011-12-02 03:14:04 [INFO] <fatso784> okay
+2011-12-02 03:15:06 [INFO] <fatso784> hahaha
+2011-12-02 03:15:13 [INFO] <lh00000000> lol i thought it was just the spiders
+2011-12-02 03:15:14 [INFO] <fatso784> i heard that
+2011-12-02 03:16:02 [INFO] <lh00000000> are you up there?
+2011-12-02 03:16:07 [INFO] <fatso784> no
+2011-12-02 03:16:11 [INFO] <lh00000000> ah alright
+2011-12-02 03:16:12 [INFO] <fatso784> back to the mines
+2011-12-02 03:16:19 [INFO] <lh00000000> hahahah
+2011-12-02 03:16:25 [INFO] <fatso784> :O
+2011-12-02 03:17:00 [INFO] <lh00000000> that was quite a combo
+2011-12-02 03:17:30 [INFO] <lh00000000> hmm
+2011-12-02 03:17:43 [INFO] <lh00000000> my stuff is all around your bed but i can't pick it up
+2011-12-02 03:17:52 [INFO] <fatso784> yikes
+2011-12-02 03:17:56 [INFO] <fatso784> full inventory
+2011-12-02 03:18:13 [INFO] <lh00000000> nah I'm empty
+2011-12-02 03:35:52 [INFO] <lh00000000> ahhh
+2011-12-02 03:36:01 [INFO] <fatso784> hahaha
+2011-12-02 03:36:31 [INFO] <fatso784> hey cna you do something for me
+2011-12-02 03:36:36 [INFO] <lh00000000> sure
+2011-12-02 03:36:45 [INFO] <fatso784> go to the redstone mines where i was
+2011-12-02 03:36:58 [INFO] <fatso784> so i can see where your name tag is
+2011-12-02 03:37:05 [INFO] <lh00000000> alright
+2011-12-02 03:37:08 [INFO] <fatso784> and i can build a tunnel there to connect it then
+2011-12-02 03:37:57 [INFO] <lh00000000> phew! got the glass back
+2011-12-02 03:38:06 [INFO] <fatso784> nice
+2011-12-02 03:38:59 [INFO] <lh00000000> apparently the block under water leaks, and if it leaks over  a sapling, it uproots it
+2011-12-02 03:39:18 [INFO] <fatso784> wow talk about realistic
+2011-12-02 03:39:33 [INFO] <lh00000000> except the sapling just pops out haha
+2011-12-02 03:39:44 [INFO] <lh00000000> so i built another layer for the ceiling and it was too low
+2011-12-02 03:40:17 [INFO] <lh00000000> so...glass ceiling time!
+2011-12-02 03:40:31 [INFO] <fatso784> you're there?
+2011-12-02 03:40:33 [INFO] <lh00000000> do you want me at the redstone? or where you were?
+2011-12-02 03:40:39 [INFO] <fatso784> yeah
+2011-12-02 03:40:57 [INFO] <lh00000000> alright I'm at the redstone
+2011-12-02 03:41:03 [INFO] <fatso784> wowwww
+2011-12-02 03:41:10 [INFO] <fatso784> that wasnt where i thought it was haha
+2011-12-02 03:41:14 [INFO] <fatso784> okay this is better
+2011-12-02 03:41:22 [INFO] <fatso784> uhhm
+2011-12-02 03:41:36 [INFO] <fatso784> i marked it
+2011-12-02 03:41:37 [INFO] <lh00000000> haha i can't even see your name
+2011-12-02 03:41:53 [INFO] <fatso784> yeah
+2011-12-02 03:42:32 [INFO] <lh00000000> you marked it? so should i stay here?
+2011-12-02 03:42:43 [INFO] <fatso784> no you can leave. thanks
+2011-12-02 03:42:47 [INFO] <lh00000000> no prob
+2011-12-02 03:43:24 [INFO] <lh00000000> i gotta go after i put in the rest of the glass
+2011-12-02 03:43:37 [INFO] <lh00000000> fucking minecraft
+2011-12-02 03:43:50 [INFO] <fatso784> no probs
+2011-12-02 03:43:52 [INFO] <fatso784> lol
+2011-12-02 03:51:36 [INFO] <lh00000000> alright man, I'll talk to you later
+2011-12-02 03:51:40 [INFO] <fatso784> CYA
+2011-12-02 03:51:44 [INFO] <fatso784> lol cya
+2011-12-02 03:51:50 [INFO] <lh00000000> haha bye
+2011-12-02 03:51:53 [INFO] lh00000000 lost connection: disconnect.quitting
+2011-12-02 04:38:21 [INFO] fatso784 lost connection: disconnect.quitting
+2011-12-02 09:43:54 [INFO] PsychoDesigns [/76.10.134.230:49822] logged in with entity id 1768289 at (-370.625, 68.0, 122.75)
+2011-12-02 09:52:36 [INFO] boblemoche14 [/65.94.67.243:40096] logged in with entity id 1771669 at (-3010.9375, 71.0, 866.1875)
+2011-12-02 09:52:41 [INFO] <boblemoche14> haha
+2011-12-02 09:52:41 [INFO] <PsychoDesigns> good morning
+2011-12-02 09:52:45 [INFO] <boblemoche14> taking a break?
+2011-12-02 09:52:50 [INFO] <PsychoDesigns> lol just joined
+2011-12-02 09:52:59 [INFO] <PsychoDesigns> I woke up and couldn't get back to sleep
+2011-12-02 09:53:06 [INFO] <PsychoDesigns> even if I only slept 2 hours
+2011-12-02 09:53:14 [INFO] <PsychoDesigns> waiting to be sleepy again
+2011-12-02 09:53:25 [INFO] <boblemoche14> wow thats not good
+2011-12-02 09:53:32 [INFO] <PsychoDesigns> meh
+2011-12-02 09:53:36 [INFO] <PsychoDesigns> where are you at?
+2011-12-02 09:53:40 [INFO] <boblemoche14> minecraft is messing you up
+2011-12-02 09:53:45 [INFO] <boblemoche14> im on ian island
+2011-12-02 09:53:48 [INFO] <boblemoche14> visiting
+2011-12-02 09:54:00 [INFO] <PsychoDesigns> oh ok... I was just there... looks good!
+2011-12-02 09:54:07 [INFO] <boblemoche14> they built a lighthouse!
+2011-12-02 09:54:15 [INFO] <PsychoDesigns> I need to build a nicer house for myself
+2011-12-02 09:54:30 [INFO] <PsychoDesigns> with tnt traps
+2011-12-02 09:54:56 [INFO] <boblemoche14> haha are you saying that because I stole some feathers from your chest?
+2011-12-02 09:55:04 [INFO] <PsychoDesigns> are you staying at Ian's or heading home
+2011-12-02 09:55:11 [INFO] <PsychoDesigns> lol... no i didnt notice...
+2011-12-02 09:55:13 [INFO] <boblemoche14> i wanna explore here a bit
+2011-12-02 09:55:20 [INFO] <boblemoche14> see their new mine
+2011-12-02 09:55:25 [INFO] <PsychoDesigns> just because its fun
+2011-12-02 09:55:28 [INFO] <boblemoche14> ill head home after that
+2011-12-02 10:08:03 [INFO] <boblemoche14> i made a map of the ocean
+2011-12-02 10:08:14 [INFO] <boblemoche14> theres a landmass to the north and south
+2011-12-02 10:08:24 [INFO] <PsychoDesigns> I'm not sure what that means... you mean explored with a map
+2011-12-02 10:08:25 [INFO] <PsychoDesigns> ?
+2011-12-02 10:08:35 [INFO] <boblemoche14> i will show you
+2011-12-02 10:08:53 [INFO] <PsychoDesigns> I'm very far away deep in my private mine
+2011-12-02 10:09:02 [INFO] <boblemoche14> oh ok
+2011-12-02 10:09:10 [INFO] <boblemoche14> you can make a map with paper+compass
+2011-12-02 10:09:19 [INFO] <boblemoche14> then if you explore with it it fills up
+2011-12-02 10:09:27 [INFO] <PsychoDesigns> oh ok
+2011-12-02 10:09:35 [INFO] <boblemoche14> it starts empty but you fill it up
+2011-12-02 10:09:46 [INFO] boblemoche14 lost connection: disconnect.genericReason
+2011-12-02 10:10:29 [INFO] boblemoche14 [/65.94.67.243:40180] logged in with entity id 1806816 at (-368.78125, 61.0, 130.09375)
+2011-12-02 10:10:44 [INFO] <PsychoDesigns> how come you keep getting disconnected?
+2011-12-02 10:11:25 [INFO] <boblemoche14> I dunno
+2011-12-02 10:11:31 [INFO] <boblemoche14> I think its the browser version
+2011-12-02 10:11:34 [INFO] <boblemoche14> I keep crashing
+2011-12-02 10:11:45 [INFO] <PsychoDesigns> oh you're on the browser version? why?
+2011-12-02 10:11:47 [INFO] <boblemoche14> have you found an abandonned mine yet btw>
+2011-12-02 10:11:52 [INFO] <boblemoche14> because I'm dumb
+2011-12-02 10:11:56 [INFO] <PsychoDesigns> lol
+2011-12-02 10:12:03 [INFO] <boblemoche14> I'm using the downloadable one now
+2011-12-02 10:12:15 [INFO] <PsychoDesigns> good
+2011-12-02 10:12:21 [INFO] <PsychoDesigns> no abandoned mine yet
+2011-12-02 10:12:30 [INFO] <PsychoDesigns> but I found a spawning cage thingy
+2011-12-02 10:12:34 [INFO] <boblemoche14> ooh
+2011-12-02 10:12:39 [INFO] <boblemoche14> what kind of mob?
+2011-12-02 10:12:43 [INFO] <PsychoDesigns> pigs
+2011-12-02 10:12:47 [INFO] <boblemoche14> what
+2011-12-02 10:12:57 [INFO] <boblemoche14> no they all look like pig spawners in multiplayer
+2011-12-02 10:13:09 [INFO] <PsychoDesigns> oh ok
+2011-12-02 10:13:20 [INFO] <boblemoche14> hehe
+2011-12-02 10:13:23 [INFO] <PsychoDesigns> I don't know then... I don't remember what I killed
+2011-12-02 10:13:27 [INFO] <PsychoDesigns> it was long time ago
+2011-12-02 10:13:29 [INFO] <boblemoche14> its a good way to grind xp
+2011-12-02 10:13:33 [INFO] <boblemoche14> :P
+2011-12-02 10:13:44 [INFO] <PsychoDesigns> yeah I'm saving it for later
+2011-12-02 10:14:56 [INFO] <boblemoche14> when we find rails we can build
+2011-12-02 10:15:04 [INFO] <boblemoche14> a rail system through hell
+2011-12-02 10:15:08 [INFO] <boblemoche14> high speed
+2011-12-02 10:15:14 [INFO] <PsychoDesigns> yeah!
+2011-12-02 10:15:37 [INFO] <PsychoDesigns> found 4 diamonds!
+2011-12-02 10:15:41 [INFO] <boblemoche14> cool
+2011-12-02 10:15:56 [INFO] <boblemoche14> make something and enchant it :P
+2011-12-02 10:16:10 [INFO] <PsychoDesigns> yeah.. when I get back up
+2011-12-02 10:19:55 [INFO] <PsychoDesigns> 4 more doamonds! I'm on fire!
+2011-12-02 10:20:08 [INFO] <boblemoche14> whoah whats your secret?
+2011-12-02 10:21:00 [INFO] <PsychoDesigns> drill in random directions
+2011-12-02 10:21:18 [INFO] <boblemoche14> hmm
+2011-12-02 10:21:22 [INFO] <boblemoche14> ill make some potions
+2011-12-02 10:21:52 [INFO] <PsychoDesigns> and drill 1 block big holes just to quickly prob the area for resources
+2011-12-02 10:22:10 [INFO] <boblemoche14> ooo good idea
+2011-12-02 10:28:39 [INFO] <PsychoDesigns> are you still at ian's?
+2011-12-02 10:30:02 [INFO] <PsychoDesigns> I see your name tage far away
+2011-12-02 10:30:11 [INFO] <boblemoche14> im in my lab
+2011-12-02 10:30:16 [INFO] <PsychoDesigns> oh ok
+2011-12-02 10:30:17 [INFO] <boblemoche14> making potions
+2011-12-02 10:30:28 [INFO] <boblemoche14> :P
+2011-12-02 10:31:52 [INFO] <PsychoDesigns> I dug my way up to the surface
+2011-12-02 10:32:28 [INFO] <boblemoche14> cool
+2011-12-02 10:48:04 [INFO] <boblemoche14> yay I got an ender pearl
+2011-12-02 10:48:17 [INFO] <PsychoDesigns> nice... what does it do?
+2011-12-02 10:48:36 [INFO] <boblemoche14> you combine it with blaze rods and it makes a thing that helps you find strongholds
+2011-12-02 10:48:55 [INFO] <PsychoDesigns> strongholds?
+2011-12-02 10:49:01 [INFO] <boblemoche14> rare dungeons
+2011-12-02 10:49:12 [INFO] <boblemoche14> and in the strongholds theres a portal
+2011-12-02 10:49:14 [INFO] <boblemoche14> to the end
+2011-12-02 10:49:14 [INFO] <PsychoDesigns> oh cool
+2011-12-02 10:49:19 [INFO] <boblemoche14> :P
+2011-12-02 10:51:43 [INFO] <PsychoDesigns> wanna go looking for them now?
+2011-12-02 10:51:55 [INFO] <boblemoche14> lets wait until day
+2011-12-02 10:52:14 [INFO] <PsychoDesigns> I'm building a new level for my house
+2011-12-02 10:52:19 [INFO] <boblemoche14> cool
+2011-12-02 10:52:25 [INFO] <boblemoche14> i should upgrade mine at some point
+2011-12-02 10:52:30 [INFO] <boblemoche14> its like a hobbit hole now
+2011-12-02 10:52:36 [INFO] <PsychoDesigns> lol yes it is
+2011-12-02 10:53:03 [INFO] <PsychoDesigns> ugh need more glass!
+2011-12-02 10:53:12 [INFO] <boblemoche14> i have some you can take it if you want
+2011-12-02 10:53:21 [INFO] <boblemoche14> also theres a desert to the northwest
+2011-12-02 10:53:27 [INFO] <PsychoDesigns> need at least 64
+2011-12-02 10:53:35 [INFO] <boblemoche14> ill show you on the map
+2011-12-02 10:53:38 [INFO] <boblemoche14> come to my house
+2011-12-02 10:53:39 [INFO] <PsychoDesigns> yeah, I'll wait for day light
+2011-12-02 10:53:45 [INFO] <boblemoche14> im going there too
+2011-12-02 10:54:47 [INFO] <PsychoDesigns> oh you got a dog!
+2011-12-02 10:54:51 [INFO] <boblemoche14> hehe
+2011-12-02 10:54:53 [INFO] <PsychoDesigns> what does it do!
+2011-12-02 10:54:59 [INFO] <boblemoche14> it attacks mobs
+2011-12-02 10:55:07 [INFO] <boblemoche14> or just sits
+2011-12-02 10:55:19 [INFO] <boblemoche14> see in the northwest corner
+2011-12-02 10:55:23 [INFO] <boblemoche14> theres a bit of desert
+2011-12-02 10:55:26 [INFO] <PsychoDesigns> yeah.. its pretty far
+2011-12-02 10:55:39 [INFO] <boblemoche14> im going there to triangulate the stronghold
+2011-12-02 10:55:42 [INFO] <PsychoDesigns> there is sand near here... why do you wanna go there?
+2011-12-02 10:55:50 [INFO] <boblemoche14> theres more sand :P
+2011-12-02 10:55:52 [INFO] <PsychoDesigns> oh ok.. I'll come help you
+2011-12-02 10:56:00 [INFO] <boblemoche14> but also I used a pearl here already
+2011-12-02 10:56:00 [INFO] <PsychoDesigns> let me just drop some stuff off at my place
+2011-12-02 10:56:07 [INFO] <boblemoche14> ok
+2011-12-02 10:57:21 [INFO] <boblemoche14> ill wait for you at the giant red mushroom
+2011-12-02 10:58:02 [INFO] <PsychoDesigns> ok ready
+2011-12-02 10:58:40 [INFO] <boblemoche14> ok lets go
+2011-12-02 10:58:52 [INFO] <PsychoDesigns> who made this?
+2011-12-02 10:58:58 [INFO] <boblemoche14> the mushroom?
+2011-12-02 10:59:00 [INFO] <boblemoche14> thats me
+2011-12-02 10:59:01 [INFO] <PsychoDesigns> yeah
+2011-12-02 10:59:07 [INFO] <boblemoche14> you plant a mushroom and give it bonemeal
+2011-12-02 10:59:09 [INFO] <PsychoDesigns> is it a hell mushroom?
+2011-12-02 10:59:13 [INFO] <PsychoDesigns> ohh ok
+2011-12-02 10:59:16 [INFO] <boblemoche14> no just a regular one
+2011-12-02 10:59:21 [INFO] <PsychoDesigns> cool
+2011-12-02 11:01:04 [INFO] <PsychoDesigns> ooo nice cave
+2011-12-02 11:01:18 [INFO] <boblemoche14> woah
+2011-12-02 11:01:33 [INFO] <boblemoche14> desert
+2011-12-02 11:01:33 [INFO] <PsychoDesigns> cows!
+2011-12-02 11:01:42 [INFO] <PsychoDesigns> we should bring some with us
+2011-12-02 11:01:50 [INFO] <boblemoche14> do you have wheat?
+2011-12-02 11:01:56 [INFO] <PsychoDesigns> fuck.. I dropped it off
+2011-12-02 11:02:36 [INFO] <boblemoche14> lava pool
+2011-12-02 11:02:45 [INFO] <PsychoDesigns> nice
+2011-12-02 11:03:05 [INFO] <boblemoche14> ok im going to use the pearl
+2011-12-02 11:03:32 [INFO] <boblemoche14> hmmm
+2011-12-02 11:03:47 [INFO] <PsychoDesigns> is it under us?
+2011-12-02 11:04:03 [INFO] <boblemoche14> not sure....
+2011-12-02 11:04:06 [INFO] <boblemoche14> ill try again
+2011-12-02 11:04:08 [INFO] <PsychoDesigns> try again?
+2011-12-02 11:04:10 [INFO] <boblemoche14> from another spot
+2011-12-02 11:04:21 [INFO] <PsychoDesigns> hurry... sun is setting
+2011-12-02 11:04:29 [INFO] <boblemoche14> i have a bed
+2011-12-02 11:04:33 [INFO] <boblemoche14> ill dig a hole and sleep
+2011-12-02 11:04:33 [INFO] <PsychoDesigns> me too
+2011-12-02 11:05:36 [INFO] <PsychoDesigns> tlol... good night
+2011-12-02 11:05:55 [INFO] <boblemoche14> only one person needs to sleep really
+2011-12-02 11:06:01 [INFO] <PsychoDesigns> oh ok
+2011-12-02 11:06:04 [INFO] <boblemoche14> everyone else can log out for a minute :P
+2011-12-02 11:06:18 [INFO] <PsychoDesigns> nah this is more fun
+2011-12-02 11:06:23 [INFO] <boblemoche14> hehe
+2011-12-02 11:06:38 [INFO] <boblemoche14> shit my pearl exploded
+2011-12-02 11:06:52 [INFO] <PsychoDesigns> take your bed
+2011-12-02 11:07:03 [INFO] <boblemoche14> ok its near here
+2011-12-02 11:07:10 [INFO] <PsychoDesigns> what do we do?
+2011-12-02 11:07:15 [INFO] <PsychoDesigns> dig down?
+2011-12-02 11:07:21 [INFO] <boblemoche14> no you have to go this way
+2011-12-02 11:07:34 [INFO] <PsychoDesigns> ok I'll follow you
+2011-12-02 11:07:40 [INFO] <boblemoche14> hmmm
+2011-12-02 11:08:21 [INFO] <boblemoche14> ok
+2011-12-02 11:08:23 [INFO] <boblemoche14> wait
+2011-12-02 11:08:29 [INFO] <boblemoche14> we need to cross the two lines
+2011-12-02 11:08:53 [INFO] <PsychoDesigns> ?
+2011-12-02 11:09:12 [INFO] <boblemoche14> where this line and the other we made cross
+2011-12-02 11:09:16 [INFO] <PsychoDesigns> oh ok
+2011-12-02 11:09:17 [INFO] <boblemoche14> is where the stronghold is
+2011-12-02 11:09:57 [INFO] <PsychoDesigns> here?
+2011-12-02 11:10:02 [INFO] <boblemoche14> shit theyre parallel almost
+2011-12-02 11:10:26 [INFO] <boblemoche14> its super far away :(
+2011-12-02 11:10:26 [INFO] <PsychoDesigns> i gess its further down
+2011-12-02 11:10:35 [INFO] <PsychoDesigns> can I see the map?
+2011-12-02 11:10:40 [INFO] <boblemoche14> were off the map
+2011-12-02 11:11:50 [INFO] <PsychoDesigns> do you know the wya back home?
+2011-12-02 11:11:55 [INFO] <boblemoche14> hmmm yeah
+2011-12-02 11:12:02 [INFO] <boblemoche14> we should go back
+2011-12-02 11:12:03 [INFO] <PsychoDesigns> i don't like the hmmm.. lol
+2011-12-02 11:12:05 [INFO] <boblemoche14> :/
+2011-12-02 11:12:14 [INFO] <boblemoche14> lets look over this dune
+2011-12-02 11:12:38 [INFO] <PsychoDesigns> is it on the surface?
+2011-12-02 11:12:46 [INFO] <boblemoche14> maybe but probably not
+2011-12-02 11:13:02 [INFO] <boblemoche14> oh well
+2011-12-02 11:13:05 [INFO] <boblemoche14> we can go back
+2011-12-02 11:13:09 [INFO] <PsychoDesigns> ok
+2011-12-02 11:13:17 [INFO] <PsychoDesigns> where are you?
+2011-12-02 11:13:25 [INFO] <boblemoche14> i see you
+2011-12-02 11:13:40 [INFO] <boblemoche14> sky island!
+2011-12-02 11:13:51 [INFO] <PsychoDesigns> lol
+2011-12-02 11:14:21 [INFO] <boblemoche14> did you make this":?
+2011-12-02 11:14:25 [INFO] <PsychoDesigns> yeah
+2011-12-02 11:14:30 [INFO] <PsychoDesigns> so we dont get lost
+2011-12-02 11:14:31 [INFO] <boblemoche14> to mark what?
+2011-12-02 11:14:33 [INFO] <boblemoche14> ah ok
+2011-12-02 11:14:37 [INFO] <boblemoche14> wanna try digging?
+2011-12-02 11:14:41 [INFO] <PsychoDesigns> sure
+2011-12-02 11:14:43 [INFO] <boblemoche14> haha
+2011-12-02 11:14:55 [INFO] <PsychoDesigns> this is the way back home..
+2011-12-02 11:14:59 [INFO] <boblemoche14> sure?
+2011-12-02 11:15:01 [INFO] <boblemoche14> ok cool
+2011-12-02 11:15:03 [INFO] <PsychoDesigns> somewhat
+2011-12-02 11:15:17 [INFO] <PsychoDesigns> at least the way back to the markers
+2011-12-02 11:15:25 [INFO] <PsychoDesigns> lets dig
+2011-12-02 11:15:44 [INFO] <boblemoche14> here
+2011-12-02 11:16:35 [INFO] <boblemoche14> theres nothing here
+2011-12-02 11:16:36 [INFO] <PsychoDesigns> I'll go into another direction
+2011-12-02 11:17:53 [INFO] <boblemoche14> find anything?
+2011-12-02 11:18:00 [INFO] <PsychoDesigns> nope.. building ladders
+2011-12-02 11:19:32 [INFO] <boblemoche14> im gonna kill some mobs outisde
+2011-12-02 11:19:50 [INFO] <PsychoDesigns> ill join.. there is nothing here
+2011-12-02 11:19:59 [INFO] <boblemoche14> :(*
+2011-12-02 11:20:04 [INFO] <boblemoche14> i wanna find a stronhold
+2011-12-02 11:22:01 [INFO] <boblemoche14> pearl :D
+2011-12-02 11:22:04 [INFO] <PsychoDesigns> nice
+2011-12-02 11:22:30 [INFO] <PsychoDesigns> dont go too far
+2011-12-02 11:22:37 [INFO] <boblemoche14> ok
+2011-12-02 11:23:21 [INFO] <boblemoche14> did you get enough sand?
+2011-12-02 11:23:32 [INFO] <PsychoDesigns> yeah and not enough food
+2011-12-02 11:23:40 [INFO] <PsychoDesigns> I'm heading home at dawn!
+2011-12-02 11:23:42 [INFO] <boblemoche14> ok lets go back
+2011-12-02 11:23:47 [INFO] <boblemoche14> yes
+2011-12-02 11:23:48 [INFO] <PsychoDesigns> now?
+2011-12-02 11:23:55 [INFO] <boblemoche14> oops
+2011-12-02 11:25:43 [INFO] <PsychoDesigns> ok home?
+2011-12-02 11:25:47 [INFO] <boblemoche14> yepw
+2011-12-02 11:26:14 [INFO] <boblemoche14> brb
+2011-12-02 11:26:17 [INFO] <PsychoDesigns> ok
+2011-12-02 11:27:00 [INFO] <boblemoche14> sorry
+2011-12-02 11:27:01 [INFO] <boblemoche14> im back
+2011-12-02 11:27:06 [INFO] <PsychoDesigns> np
+2011-12-02 11:27:38 [INFO] <boblemoche14> this is not where we came from :P
+2011-12-02 11:27:48 [INFO] <PsychoDesigns> we went through a forest
+2011-12-02 11:27:54 [INFO] <boblemoche14> no this one though
+2011-12-02 11:28:01 [INFO] <boblemoche14> the one we went through was on the ma[p
+2011-12-02 11:28:03 [INFO] <PsychoDesigns> oh ok then we're officially lost
+2011-12-02 11:28:07 [INFO] <boblemoche14> no dont worry
+2011-12-02 11:28:10 [INFO] <PsychoDesigns> no after the desert
+2011-12-02 11:28:15 [INFO] <boblemoche14> oh really
+2011-12-02 11:28:21 [INFO] <boblemoche14> ok never mind then
+2011-12-02 11:28:21 [INFO] <PsychoDesigns> there was a hill with trees
+2011-12-02 11:28:31 [INFO] <boblemoche14> shiiit
+2011-12-02 11:28:35 [INFO] <PsychoDesigns> but I think  we're going too deep
+2011-12-02 11:28:42 [INFO] <PsychoDesigns> hold on
+2011-12-02 11:29:06 [INFO] <boblemoche14> seen this?
+2011-12-02 11:29:11 [INFO] <PsychoDesigns> oh ok I found the way
+2011-12-02 11:29:18 [INFO] <boblemoche14> cool
+2011-12-02 11:29:32 [INFO] <PsychoDesigns> nice
+2011-12-02 11:29:48 [INFO] <boblemoche14> oops
+2011-12-02 11:29:49 [INFO] <PsychoDesigns> shit!
+2011-12-02 11:29:59 [INFO] <PsychoDesigns> are you stuck?
+2011-12-02 11:30:00 [INFO] <boblemoche14> haha i broke my armor
+2011-12-02 11:30:40 [INFO] <PsychoDesigns> ok follow me
+2011-12-02 11:31:18 [INFO] <boblemoche14> ahh yes
+2011-12-02 11:32:15 [INFO] <PsychoDesigns> this is our camp
+2011-12-02 11:32:58 [INFO] <boblemoche14> were on the map again
+2011-12-02 11:33:01 [INFO] <boblemoche14> you can follow me
+2011-12-02 11:33:11 [INFO] <boblemoche14> hmm
+2011-12-02 11:33:18 [INFO] <PsychoDesigns> cool
+2011-12-02 11:33:25 [INFO] <boblemoche14> the sronghold shouldnt be that far
+2011-12-02 11:33:34 [INFO] <boblemoche14> ill come back later with a new pearl and a new map :P
+2011-12-02 11:33:42 [INFO] <PsychoDesigns> lol ok
+2011-12-02 11:35:17 [INFO] <boblemoche14> we can make it
+2011-12-02 11:36:23 [INFO] <PsychoDesigns> ahh sweet home
+2011-12-02 11:36:40 [INFO] <boblemoche14> hehe
+2011-12-02 11:37:44 [INFO] <PsychoDesigns> ok I gtg eat irl
+2011-12-02 11:37:59 [INFO] <boblemoche14> hehe ok
+2011-12-02 11:38:03 [INFO] <PsychoDesigns> gg
+2011-12-02 11:38:04 [INFO] <boblemoche14> im logging out too
+2011-12-02 11:38:09 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-12-02 11:40:50 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-12-02 12:02:34 [INFO] fatso784 [/65.92.27.9:49993] logged in with entity id 1908985 at (-3039.015330049051, 50.0, 905.8535205266219)
+2011-12-02 12:25:38 [INFO] PsychoDesigns [/76.10.134.230:51830] logged in with entity id 1915345 at (41.15625, 75.0, 194.9375)
+2011-12-02 12:25:46 [INFO] <PsychoDesigns> hey ian
+2011-12-02 12:25:51 [INFO] <fatso784> hey mo
+2011-12-02 12:29:39 [INFO] boblemoche14 [/65.94.67.243:40796] logged in with entity id 1922418 at (97.625, 64.0, 166.6875)
+2011-12-02 12:29:46 [INFO] <boblemoche14> wooo
+2011-12-02 12:29:54 [INFO] <fatso784> hey
+2011-12-02 12:30:09 [INFO] <PsychoDesigns> it is official gentlemen, we're addicts
+2011-12-02 12:30:15 [INFO] <fatso784> hahahaha
+2011-12-02 12:30:56 [INFO] <boblemoche14> hows your base doing fatso?
+2011-12-02 12:31:05 [INFO] <fatso784> good
+2011-12-02 12:31:26 [INFO] <boblemoche14> cool
+2011-12-02 12:31:33 [INFO] <fatso784> im planning to have a second base camp down below
+2011-12-02 12:31:39 [INFO] <boblemoche14> im going to keep looking for a stronghold
+2011-12-02 12:31:40 [INFO] <fatso784> but an enderman spawned where i was mining
+2011-12-02 12:31:44 [INFO] <fatso784> okay
+2011-12-02 12:31:47 [INFO] <boblemoche14> killll iiiitttt
+2011-12-02 12:31:52 [INFO] <fatso784> 1 hpppp
+2011-12-02 12:31:53 [INFO] <boblemoche14> give me its pearllllsssss
+2011-12-02 12:32:09 [INFO] <boblemoche14> lol
+2011-12-02 12:32:14 [INFO] <boblemoche14> put your stuff in your chest
+2011-12-02 12:32:18 [INFO] <boblemoche14> and jump into lava
+2011-12-02 12:32:23 [INFO] <boblemoche14> hunger problem solved
+2011-12-02 12:32:39 [INFO] <boblemoche14> oo mo there are cows here
+2011-12-02 12:32:47 [INFO] <boblemoche14> just a bit west of the base
+2011-12-02 12:32:50 [INFO] <boblemoche14> not very far
+2011-12-02 12:33:03 [INFO] <PsychoDesigns> I'll bring the wheet
+2011-12-02 12:33:24 [INFO] <PsychoDesigns> where?
+2011-12-02 12:33:35 [INFO] <boblemoche14> west of the main base
+2011-12-02 12:33:40 [INFO] <boblemoche14> right before the river
+2011-12-02 12:34:10 [INFO] <boblemoche14> west is where the sun sets btw
+2011-12-02 12:34:21 [INFO] <PsychoDesigns> lol i know
+2011-12-02 12:34:25 [INFO] <boblemoche14> :P
+2011-12-02 12:44:49 [INFO] <boblemoche14> did you find them?
+2011-12-02 12:45:02 [INFO] <PsychoDesigns> no the sun sat right away
+2011-12-02 12:45:16 [INFO] <PsychoDesigns> I went back home to build my giant lava penis
+2011-12-02 12:45:18 [INFO] <boblemoche14> ah ok
+2011-12-02 12:45:19 [INFO] <boblemoche14> cool
+2011-12-02 12:45:35 [INFO] <boblemoche14> im going to build a bigger one
+2011-12-02 12:45:41 [INFO] <boblemoche14> just you wait
+2011-12-02 12:45:48 [INFO] <PsychoDesigns> we'll see!
+2011-12-02 12:49:18 [INFO] <PsychoDesigns> aww!
+2011-12-02 12:49:27 [INFO] <fatso784> no i planned that haha
+2011-12-02 12:49:38 [INFO] <PsychoDesigns> thats what they all say
+2011-12-02 12:49:44 [INFO] <fatso784> :P
+2011-12-02 12:50:17 [INFO] <boblemoche14> im getting close
+2011-12-02 12:53:26 [INFO] <boblemoche14> oooooh yeah
+2011-12-02 12:53:32 [INFO] <PsychoDesigns> found it?
+2011-12-02 12:53:33 [INFO] <boblemoche14> found it
+2011-12-02 12:53:44 [INFO] <PsychoDesigns> cool.. I'll come join you in 2 min
+2011-12-02 12:53:48 [INFO] <PsychoDesigns> how do I find you?
+2011-12-02 12:53:55 [INFO] <boblemoche14> hmm im not sure
+2011-12-02 12:54:13 [INFO] <boblemoche14> i think im going to log off for now actually
+2011-12-02 12:54:19 [INFO] <PsychoDesigns> lol ok
+2011-12-02 12:54:49 [INFO] <boblemoche14> i dont know how ill find my way back...
+2011-12-02 12:55:10 [INFO] <PsychoDesigns> look for my giant lava penis in the sky
+2011-12-02 12:55:41 [INFO] <boblemoche14> lol
+2011-12-02 12:56:39 [INFO] <PsychoDesigns> do you see it?
+2011-12-02 12:56:59 [INFO] <boblemoche14> im going to log of in the stronghold I think
+2011-12-02 12:57:02 [INFO] <boblemoche14> ill go back next time
+2011-12-02 12:57:04 [INFO] <PsychoDesigns> lol ok
+2011-12-02 12:57:33 [INFO] <PsychoDesigns> I'm off to do actual work...
+2011-12-02 12:57:37 [INFO] PsychoDesigns lost connection: disconnect.quitting
+2011-12-02 12:57:55 [INFO] <boblemoche14> hell be back...
+2011-12-02 12:57:59 [INFO] <fatso784> lol
+2011-12-02 13:11:06 [INFO] <boblemoche14> ok im going
+2011-12-02 13:11:11 [INFO] <fatso784> cya
+2011-12-02 13:11:20 [INFO] boblemoche14 lost connection: disconnect.quitting
+2011-12-02 14:03:15 [INFO] fatso784 lost connection: disconnect.genericReason
